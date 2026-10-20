@@ -1,0 +1,6757 @@
+[
+ {
+  "uid_key": "912162-2026-09-17T09:00-Klassleitung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Klassleitung",
+  "start": "2026-09-17T09:00",
+  "end": "2026-09-17T09:45",
+  "teachers": [
+   "Lange",
+   "Pfeiffer"
+  ],
+  "room": "2.0.21",
+  "status": "CHANGED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "912165-2026-09-17T10:15-Klassleitung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Klassleitung",
+  "start": "2026-09-17T10:15",
+  "end": "2026-09-17T14:00",
+  "teachers": [
+   "Lange",
+   "Pfeiffer"
+  ],
+  "room": "2.0.21",
+  "status": "CHANGED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "944405-2026-10-05T08:15-LF0 Technik",
+  "kind": "EVENT",
+  "title": "LF0 Technik",
+  "start": "2026-10-05T08:15",
+  "end": "2026-10-05T11:00",
+  "teachers": [
+   "Pfeiffer",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "CHANGED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980674-2026-10-05T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-10-05T08:15",
+  "end": "2026-10-05T09:45",
+  "teachers": [
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "CANCELLED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983349-2026-10-05T10:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-10-05T10:15",
+  "end": "2026-10-05T11:00",
+  "teachers": [
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "CANCELLED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983352-2026-10-05T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-10-05T11:00",
+  "end": "2026-10-05T11:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "CANCELLED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "944426-2026-10-05T11:45-LF0",
+  "kind": "EVENT",
+  "title": "LF0",
+  "start": "2026-10-05T11:45",
+  "end": "2026-10-05T14:00",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "CHANGED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "974997-2026-10-05T12:30-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2026-10-05T12:30",
+  "end": "2026-10-05T13:15",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "CANCELLED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982656-2026-10-05T13:15-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2026-10-05T13:15",
+  "end": "2026-10-05T14:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "CANCELLED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979054-2026-10-05T14:00-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2026-10-05T14:00",
+  "end": "2026-10-05T15:45",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "CANCELLED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976116-2026-10-06T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2026-10-06T07:30",
+  "end": "2026-10-06T08:15",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "CANCELLED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980680-2026-10-06T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-10-06T08:15",
+  "end": "2026-10-06T09:45",
+  "teachers": [
+   "Seitz",
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "CANCELLED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "944447-2026-10-06T09:00-Start Stadtrallye",
+  "kind": "EVENT",
+  "title": "Start Stadtrallye",
+  "start": "2026-10-06T09:00",
+  "end": "2026-10-06T09:45",
+  "teachers": [
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "CHANGED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "944444-2026-10-06T10:15-3ZG",
+  "kind": "EVENT",
+  "title": "3ZG",
+  "start": "2026-10-06T10:15",
+  "end": "2026-10-06T13:15",
+  "teachers": [
+   "Stadtrallye"
+  ],
+  "room": "",
+  "status": "CHANGED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981748-2026-10-06T10:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2026-10-06T10:15",
+  "end": "2026-10-06T12:30",
+  "teachers": [
+   "Lange",
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "CANCELLED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "944465-2026-10-06T13:15-Abschluss Stadtrallye",
+  "kind": "EVENT",
+  "title": "Abschluss Stadtrallye",
+  "start": "2026-10-06T13:15",
+  "end": "2026-10-06T14:00",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "2.0.22",
+  "status": "CHANGED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983355-2026-10-06T13:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-10-06T13:15",
+  "end": "2026-10-06T14:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "CANCELLED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983361-2026-10-06T15:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-10-06T15:00",
+  "end": "2026-10-06T15:45",
+  "teachers": [
+   "Moestl"
+  ],
+  "room": "2.0.22",
+  "status": "CANCELLED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976119-2026-10-07T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2026-10-07T07:30",
+  "end": "2026-10-07T09:00",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "CANCELLED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "944513-2026-10-07T08:15-LF0 Technik (VDI/VPN)",
+  "kind": "EVENT",
+  "title": "LF0 Technik (VDI/VPN)",
+  "start": "2026-10-07T08:15",
+  "end": "2026-10-07T09:45",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "CHANGED",
+  "notes": "Bitte in der vdi eine beliebige IDE installieren. Empfehlung: Eclipse oder IntelliJ",
+  "all_day": false
+ },
+ {
+  "uid_key": "980686-2026-10-07T09:00-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-10-07T09:00",
+  "end": "2026-10-07T09:45",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "CANCELLED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "944477-2026-10-07T10:15-LF0 Technikstationen",
+  "kind": "EVENT",
+  "title": "LF0 Technikstationen",
+  "start": "2026-10-07T10:15",
+  "end": "2026-10-07T11:00",
+  "teachers": [
+   "Lange"
+  ],
+  "room": "2.0.22",
+  "status": "CHANGED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980689-2026-10-07T10:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-10-07T10:15",
+  "end": "2026-10-07T11:00",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "CANCELLED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979963-2026-10-07T11:00-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2026-10-07T11:00",
+  "end": "2026-10-07T12:30",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "CANCELLED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "944471-2026-10-07T11:45-LF0",
+  "kind": "EVENT",
+  "title": "LF0",
+  "start": "2026-10-07T11:45",
+  "end": "2026-10-07T14:00",
+  "teachers": [
+   "Lange",
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "CHANGED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981757-2026-10-07T13:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2026-10-07T13:15",
+  "end": "2026-10-07T14:45",
+  "teachers": [
+   "Lange"
+  ],
+  "room": "2.3.22",
+  "status": "CANCELLED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977955-2026-10-08T08:15-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2026-10-08T08:15",
+  "end": "2026-10-08T09:00",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977163-2026-10-08T09:00-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2026-10-08T09:00",
+  "end": "2026-10-08T09:45",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977166-2026-10-08T10:15-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2026-10-08T10:15",
+  "end": "2026-10-08T11:00",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983364-2026-10-08T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-10-08T11:00",
+  "end": "2026-10-08T11:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979060-2026-10-08T11:45-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2026-10-08T11:45",
+  "end": "2026-10-08T12:30",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981763-2026-10-08T12:30-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2026-10-08T12:30",
+  "end": "2026-10-08T14:00",
+  "teachers": [
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982659-2026-10-09T07:30-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2026-10-09T07:30",
+  "end": "2026-10-09T09:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "989963-2026-10-09T09:00-IT-Technik 1",
+  "kind": "ADDITIONAL_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-10-09T09:00",
+  "end": "2026-10-09T09:45",
+  "teachers": [
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "CHANGED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975000-2026-10-09T09:00-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2026-10-09T09:00",
+  "end": "2026-10-09T09:45",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "CANCELLED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "989960-2026-10-09T10:15-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "ADDITIONAL_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2026-10-09T10:15",
+  "end": "2026-10-09T11:00",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "ADDITIONAL",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975003-2026-10-09T10:15-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2026-10-09T10:15",
+  "end": "2026-10-09T11:00",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "CANCELLED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977958-2026-10-09T11:00-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2026-10-09T11:00",
+  "end": "2026-10-09T12:30",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979969-2026-10-09T12:30-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2026-10-09T12:30",
+  "end": "2026-10-09T13:15",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "CANCELLED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980692-2026-10-12T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-10-12T08:15",
+  "end": "2026-10-12T09:45",
+  "teachers": [
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983367-2026-10-12T10:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-10-12T10:15",
+  "end": "2026-10-12T11:00",
+  "teachers": [
+   "Moestl"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983370-2026-10-12T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-10-12T11:00",
+  "end": "2026-10-12T11:45",
+  "teachers": [
+   "Moestl"
+  ],
+  "room": "2.0.22",
+  "status": "CHANGED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "989975-2026-10-12T12:30-Anwendungsentwicklung und Programmierung",
+  "kind": "ADDITIONAL_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-10-12T12:30",
+  "end": "2026-10-12T13:15",
+  "teachers": [
+   "Moestl"
+  ],
+  "room": "2.0.22",
+  "status": "CHANGED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975006-2026-10-12T12:30-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2026-10-12T12:30",
+  "end": "2026-10-12T13:15",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "CANCELLED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982665-2026-10-12T13:15-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2026-10-12T13:15",
+  "end": "2026-10-12T14:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979063-2026-10-12T14:00-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2026-10-12T14:00",
+  "end": "2026-10-12T15:45",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976125-2026-10-13T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2026-10-13T07:30",
+  "end": "2026-10-13T08:15",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980698-2026-10-13T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-10-13T08:15",
+  "end": "2026-10-13T09:00",
+  "teachers": [
+   "Seitz",
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980701-2026-10-13T09:00-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-10-13T09:00",
+  "end": "2026-10-13T09:45",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "CHANGED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981769-2026-10-13T10:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2026-10-13T10:15",
+  "end": "2026-10-13T12:30",
+  "teachers": [
+   "Lange",
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983373-2026-10-13T13:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-10-13T13:15",
+  "end": "2026-10-13T14:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983379-2026-10-13T15:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-10-13T15:00",
+  "end": "2026-10-13T15:45",
+  "teachers": [
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "CANCELLED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976128-2026-10-14T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2026-10-14T07:30",
+  "end": "2026-10-14T09:00",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980704-2026-10-14T09:00-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-10-14T09:00",
+  "end": "2026-10-14T09:45",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980707-2026-10-14T10:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-10-14T10:15",
+  "end": "2026-10-14T11:00",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979972-2026-10-14T11:00-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2026-10-14T11:00",
+  "end": "2026-10-14T12:30",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981778-2026-10-14T13:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2026-10-14T13:15",
+  "end": "2026-10-14T14:45",
+  "teachers": [
+   "Lange"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977964-2026-10-15T08:15-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2026-10-15T08:15",
+  "end": "2026-10-15T09:00",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977169-2026-10-15T09:00-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2026-10-15T09:00",
+  "end": "2026-10-15T09:45",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977172-2026-10-15T10:15-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2026-10-15T10:15",
+  "end": "2026-10-15T11:00",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983382-2026-10-15T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-10-15T11:00",
+  "end": "2026-10-15T11:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979069-2026-10-15T11:45-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2026-10-15T11:45",
+  "end": "2026-10-15T12:30",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981784-2026-10-15T12:30-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2026-10-15T12:30",
+  "end": "2026-10-15T14:00",
+  "teachers": [
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982668-2026-10-16T07:30-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2026-10-16T07:30",
+  "end": "2026-10-16T09:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975009-2026-10-16T09:00-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2026-10-16T09:00",
+  "end": "2026-10-16T09:45",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "2.0.22",
+  "status": "CHANGED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975012-2026-10-16T10:15-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2026-10-16T10:15",
+  "end": "2026-10-16T11:00",
+  "teachers": [
+   "Stoll"
+  ],
+  "room": "2.0.22",
+  "status": "CHANGED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977967-2026-10-16T11:00-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2026-10-16T11:00",
+  "end": "2026-10-16T12:30",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979978-2026-10-16T12:30-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2026-10-16T12:30",
+  "end": "2026-10-16T13:15",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "1. Test: Einteilung von Unternehmen, Marktformen",
+  "all_day": false
+ },
+ {
+  "uid_key": "holiday-2026-11-02",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2026-11-02",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2026-11-03",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2026-11-03",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2026-11-04",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2026-11-04",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2026-11-05",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2026-11-05",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2026-11-06",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2026-11-06",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2026-11-18",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2026-11-18",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "980710-2026-11-23T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-11-23T08:15",
+  "end": "2026-11-23T09:45",
+  "teachers": [
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983385-2026-11-23T10:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-11-23T10:15",
+  "end": "2026-11-23T11:00",
+  "teachers": [
+   "Moestl"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983388-2026-11-23T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-11-23T11:00",
+  "end": "2026-11-23T11:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975015-2026-11-23T12:30-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2026-11-23T12:30",
+  "end": "2026-11-23T13:15",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982674-2026-11-23T13:15-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2026-11-23T13:15",
+  "end": "2026-11-23T14:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979072-2026-11-23T14:00-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2026-11-23T14:00",
+  "end": "2026-11-23T15:45",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976134-2026-11-24T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2026-11-24T07:30",
+  "end": "2026-11-24T08:15",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980716-2026-11-24T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-11-24T08:15",
+  "end": "2026-11-24T09:45",
+  "teachers": [
+   "Seitz",
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981790-2026-11-24T10:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2026-11-24T10:15",
+  "end": "2026-11-24T12:30",
+  "teachers": [
+   "Lange",
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983391-2026-11-24T13:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-11-24T13:15",
+  "end": "2026-11-24T14:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983397-2026-11-24T15:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-11-24T15:00",
+  "end": "2026-11-24T15:45",
+  "teachers": [
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976137-2026-11-25T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2026-11-25T07:30",
+  "end": "2026-11-25T09:00",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "1. Test: KI-Tools und Co",
+  "all_day": false
+ },
+ {
+  "uid_key": "980722-2026-11-25T09:00-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-11-25T09:00",
+  "end": "2026-11-25T09:45",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980725-2026-11-25T10:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-11-25T10:15",
+  "end": "2026-11-25T11:00",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979981-2026-11-25T11:00-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2026-11-25T11:00",
+  "end": "2026-11-25T12:30",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981799-2026-11-25T13:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2026-11-25T13:15",
+  "end": "2026-11-25T14:45",
+  "teachers": [
+   "Lange"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977973-2026-11-26T08:15-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2026-11-26T08:15",
+  "end": "2026-11-26T09:00",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977175-2026-11-26T09:00-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2026-11-26T09:00",
+  "end": "2026-11-26T09:45",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977178-2026-11-26T10:15-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2026-11-26T10:15",
+  "end": "2026-11-26T11:00",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983400-2026-11-26T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-11-26T11:00",
+  "end": "2026-11-26T11:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "1. Test: Skript Einstieg S. 1-9 (ohne Expertenaufgaben)",
+  "all_day": false
+ },
+ {
+  "uid_key": "979078-2026-11-26T11:45-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2026-11-26T11:45",
+  "end": "2026-11-26T12:30",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981805-2026-11-26T12:30-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2026-11-26T12:30",
+  "end": "2026-11-26T14:00",
+  "teachers": [
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982677-2026-11-27T07:30-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2026-11-27T07:30",
+  "end": "2026-11-27T09:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975018-2026-11-27T09:00-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2026-11-27T09:00",
+  "end": "2026-11-27T09:45",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975021-2026-11-27T10:15-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2026-11-27T10:15",
+  "end": "2026-11-27T11:00",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977976-2026-11-27T11:00-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2026-11-27T11:00",
+  "end": "2026-11-27T12:30",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "1. Schulaufgabe PuG",
+  "all_day": false
+ },
+ {
+  "uid_key": "979987-2026-11-27T12:30-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2026-11-27T12:30",
+  "end": "2026-11-27T13:15",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980728-2026-11-30T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-11-30T08:15",
+  "end": "2026-11-30T09:45",
+  "teachers": [
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983403-2026-11-30T10:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-11-30T10:15",
+  "end": "2026-11-30T11:00",
+  "teachers": [
+   "Moestl"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983406-2026-11-30T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-11-30T11:00",
+  "end": "2026-11-30T11:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975024-2026-11-30T12:30-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2026-11-30T12:30",
+  "end": "2026-11-30T13:15",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982683-2026-11-30T13:15-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2026-11-30T13:15",
+  "end": "2026-11-30T14:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979081-2026-11-30T14:00-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2026-11-30T14:00",
+  "end": "2026-11-30T15:45",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976143-2026-12-01T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2026-12-01T07:30",
+  "end": "2026-12-01T08:15",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980734-2026-12-01T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-12-01T08:15",
+  "end": "2026-12-01T09:45",
+  "teachers": [
+   "Seitz",
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "Test: zu Inhalten aus Mebis Hardwarekurs",
+  "all_day": false
+ },
+ {
+  "uid_key": "981811-2026-12-01T10:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2026-12-01T10:15",
+  "end": "2026-12-01T12:30",
+  "teachers": [
+   "Lange",
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983409-2026-12-01T13:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-12-01T13:15",
+  "end": "2026-12-01T14:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983415-2026-12-01T15:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-12-01T15:00",
+  "end": "2026-12-01T15:45",
+  "teachers": [
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976146-2026-12-02T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2026-12-02T07:30",
+  "end": "2026-12-02T09:00",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980740-2026-12-02T09:00-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-12-02T09:00",
+  "end": "2026-12-02T09:45",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980743-2026-12-02T10:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-12-02T10:15",
+  "end": "2026-12-02T11:00",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979990-2026-12-02T11:00-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2026-12-02T11:00",
+  "end": "2026-12-02T12:30",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981820-2026-12-02T13:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2026-12-02T13:15",
+  "end": "2026-12-02T14:45",
+  "teachers": [
+   "Lange"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977982-2026-12-03T08:15-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2026-12-03T08:15",
+  "end": "2026-12-03T09:00",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977181-2026-12-03T09:00-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2026-12-03T09:00",
+  "end": "2026-12-03T09:45",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977184-2026-12-03T10:15-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2026-12-03T10:15",
+  "end": "2026-12-03T11:00",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983418-2026-12-03T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-12-03T11:00",
+  "end": "2026-12-03T11:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979087-2026-12-03T11:45-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2026-12-03T11:45",
+  "end": "2026-12-03T12:30",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981826-2026-12-03T12:30-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2026-12-03T12:30",
+  "end": "2026-12-03T14:00",
+  "teachers": [
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982686-2026-12-04T07:30-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2026-12-04T07:30",
+  "end": "2026-12-04T09:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975027-2026-12-04T09:00-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2026-12-04T09:00",
+  "end": "2026-12-04T09:45",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975030-2026-12-04T10:15-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2026-12-04T10:15",
+  "end": "2026-12-04T11:00",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977985-2026-12-04T11:00-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2026-12-04T11:00",
+  "end": "2026-12-04T12:30",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979996-2026-12-04T12:30-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2026-12-04T12:30",
+  "end": "2026-12-04T13:15",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980746-2026-12-07T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-12-07T08:15",
+  "end": "2026-12-07T09:45",
+  "teachers": [
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983421-2026-12-07T10:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-12-07T10:15",
+  "end": "2026-12-07T11:00",
+  "teachers": [
+   "Moestl"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983424-2026-12-07T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-12-07T11:00",
+  "end": "2026-12-07T11:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975033-2026-12-07T12:30-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2026-12-07T12:30",
+  "end": "2026-12-07T13:15",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982692-2026-12-07T13:15-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2026-12-07T13:15",
+  "end": "2026-12-07T14:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979090-2026-12-07T14:00-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2026-12-07T14:00",
+  "end": "2026-12-07T15:45",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976152-2026-12-08T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2026-12-08T07:30",
+  "end": "2026-12-08T08:15",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980752-2026-12-08T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-12-08T08:15",
+  "end": "2026-12-08T09:45",
+  "teachers": [
+   "Seitz",
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981832-2026-12-08T10:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2026-12-08T10:15",
+  "end": "2026-12-08T12:30",
+  "teachers": [
+   "Lange",
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983427-2026-12-08T13:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-12-08T13:15",
+  "end": "2026-12-08T14:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983433-2026-12-08T15:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-12-08T15:00",
+  "end": "2026-12-08T15:45",
+  "teachers": [
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976155-2026-12-09T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2026-12-09T07:30",
+  "end": "2026-12-09T09:00",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980758-2026-12-09T09:00-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-12-09T09:00",
+  "end": "2026-12-09T09:45",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980761-2026-12-09T10:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2026-12-09T10:15",
+  "end": "2026-12-09T11:00",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979999-2026-12-09T11:00-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2026-12-09T11:00",
+  "end": "2026-12-09T12:30",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981841-2026-12-09T13:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2026-12-09T13:15",
+  "end": "2026-12-09T14:45",
+  "teachers": [
+   "Lange"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977991-2026-12-10T08:15-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2026-12-10T08:15",
+  "end": "2026-12-10T09:00",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977187-2026-12-10T09:00-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2026-12-10T09:00",
+  "end": "2026-12-10T09:45",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977190-2026-12-10T10:15-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2026-12-10T10:15",
+  "end": "2026-12-10T11:00",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983436-2026-12-10T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2026-12-10T11:00",
+  "end": "2026-12-10T11:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979096-2026-12-10T11:45-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2026-12-10T11:45",
+  "end": "2026-12-10T12:30",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981847-2026-12-10T12:30-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2026-12-10T12:30",
+  "end": "2026-12-10T14:00",
+  "teachers": [
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982695-2026-12-11T07:30-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2026-12-11T07:30",
+  "end": "2026-12-11T09:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975036-2026-12-11T09:00-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2026-12-11T09:00",
+  "end": "2026-12-11T09:45",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975039-2026-12-11T10:15-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2026-12-11T10:15",
+  "end": "2026-12-11T11:00",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977994-2026-12-11T11:00-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2026-12-11T11:00",
+  "end": "2026-12-11T12:30",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980005-2026-12-11T12:30-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2026-12-11T12:30",
+  "end": "2026-12-11T13:15",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "holiday-2026-12-24",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2026-12-24",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2026-12-25",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2026-12-25",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2026-12-28",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2026-12-28",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2026-12-29",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2026-12-29",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2026-12-30",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2026-12-30",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2026-12-31",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2026-12-31",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-01-01",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-01-01",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-01-04",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-01-04",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-01-05",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-01-05",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-01-06",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-01-06",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-01-07",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-01-07",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-01-08",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-01-08",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "980764-2027-01-25T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-01-25T08:15",
+  "end": "2027-01-25T09:45",
+  "teachers": [
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983439-2027-01-25T10:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-01-25T10:15",
+  "end": "2027-01-25T11:00",
+  "teachers": [
+   "Moestl"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983442-2027-01-25T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-01-25T11:00",
+  "end": "2027-01-25T11:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975042-2027-01-25T12:30-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2027-01-25T12:30",
+  "end": "2027-01-25T13:15",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982701-2027-01-25T13:15-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2027-01-25T13:15",
+  "end": "2027-01-25T14:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979099-2027-01-25T14:00-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2027-01-25T14:00",
+  "end": "2027-01-25T15:45",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976161-2027-01-26T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2027-01-26T07:30",
+  "end": "2027-01-26T08:15",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980770-2027-01-26T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-01-26T08:15",
+  "end": "2027-01-26T09:45",
+  "teachers": [
+   "Seitz",
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981853-2027-01-26T10:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2027-01-26T10:15",
+  "end": "2027-01-26T12:30",
+  "teachers": [
+   "Lange",
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983445-2027-01-26T13:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-01-26T13:15",
+  "end": "2027-01-26T14:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983451-2027-01-26T15:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-01-26T15:00",
+  "end": "2027-01-26T15:45",
+  "teachers": [
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976164-2027-01-27T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2027-01-27T07:30",
+  "end": "2027-01-27T09:00",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980776-2027-01-27T09:00-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-01-27T09:00",
+  "end": "2027-01-27T09:45",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980779-2027-01-27T10:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-01-27T10:15",
+  "end": "2027-01-27T11:00",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980008-2027-01-27T11:00-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2027-01-27T11:00",
+  "end": "2027-01-27T12:30",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981862-2027-01-27T13:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2027-01-27T13:15",
+  "end": "2027-01-27T14:45",
+  "teachers": [
+   "Lange"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "978000-2027-01-28T08:15-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2027-01-28T08:15",
+  "end": "2027-01-28T09:00",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977193-2027-01-28T09:00-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2027-01-28T09:00",
+  "end": "2027-01-28T09:45",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977196-2027-01-28T10:15-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2027-01-28T10:15",
+  "end": "2027-01-28T11:00",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983454-2027-01-28T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-01-28T11:00",
+  "end": "2027-01-28T11:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979105-2027-01-28T11:45-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2027-01-28T11:45",
+  "end": "2027-01-28T12:30",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981868-2027-01-28T12:30-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2027-01-28T12:30",
+  "end": "2027-01-28T14:00",
+  "teachers": [
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982704-2027-01-29T07:30-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2027-01-29T07:30",
+  "end": "2027-01-29T09:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975045-2027-01-29T09:00-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2027-01-29T09:00",
+  "end": "2027-01-29T09:45",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975048-2027-01-29T10:15-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2027-01-29T10:15",
+  "end": "2027-01-29T11:00",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "978003-2027-01-29T11:00-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2027-01-29T11:00",
+  "end": "2027-01-29T12:30",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980014-2027-01-29T12:30-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2027-01-29T12:30",
+  "end": "2027-01-29T13:15",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980782-2027-02-01T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-02-01T08:15",
+  "end": "2027-02-01T09:45",
+  "teachers": [
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983457-2027-02-01T10:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-02-01T10:15",
+  "end": "2027-02-01T11:00",
+  "teachers": [
+   "Moestl"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983460-2027-02-01T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-02-01T11:00",
+  "end": "2027-02-01T11:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975051-2027-02-01T12:30-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2027-02-01T12:30",
+  "end": "2027-02-01T13:15",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982710-2027-02-01T13:15-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2027-02-01T13:15",
+  "end": "2027-02-01T14:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979108-2027-02-01T14:00-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2027-02-01T14:00",
+  "end": "2027-02-01T15:45",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976170-2027-02-02T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2027-02-02T07:30",
+  "end": "2027-02-02T08:15",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980788-2027-02-02T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-02-02T08:15",
+  "end": "2027-02-02T09:45",
+  "teachers": [
+   "Seitz",
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981874-2027-02-02T10:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2027-02-02T10:15",
+  "end": "2027-02-02T12:30",
+  "teachers": [
+   "Lange",
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983463-2027-02-02T13:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-02-02T13:15",
+  "end": "2027-02-02T14:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983469-2027-02-02T15:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-02-02T15:00",
+  "end": "2027-02-02T15:45",
+  "teachers": [
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976173-2027-02-03T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2027-02-03T07:30",
+  "end": "2027-02-03T09:00",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980794-2027-02-03T09:00-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-02-03T09:00",
+  "end": "2027-02-03T09:45",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980797-2027-02-03T10:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-02-03T10:15",
+  "end": "2027-02-03T11:00",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980017-2027-02-03T11:00-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2027-02-03T11:00",
+  "end": "2027-02-03T12:30",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981883-2027-02-03T13:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2027-02-03T13:15",
+  "end": "2027-02-03T14:45",
+  "teachers": [
+   "Lange"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "978009-2027-02-04T08:15-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2027-02-04T08:15",
+  "end": "2027-02-04T09:00",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977199-2027-02-04T09:00-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2027-02-04T09:00",
+  "end": "2027-02-04T09:45",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977202-2027-02-04T10:15-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2027-02-04T10:15",
+  "end": "2027-02-04T11:00",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983472-2027-02-04T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-02-04T11:00",
+  "end": "2027-02-04T11:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979114-2027-02-04T11:45-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2027-02-04T11:45",
+  "end": "2027-02-04T12:30",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981889-2027-02-04T12:30-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2027-02-04T12:30",
+  "end": "2027-02-04T14:00",
+  "teachers": [
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982713-2027-02-05T07:30-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2027-02-05T07:30",
+  "end": "2027-02-05T09:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975054-2027-02-05T09:00-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2027-02-05T09:00",
+  "end": "2027-02-05T09:45",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975057-2027-02-05T10:15-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2027-02-05T10:15",
+  "end": "2027-02-05T11:00",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "978012-2027-02-05T11:00-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2027-02-05T11:00",
+  "end": "2027-02-05T12:30",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980023-2027-02-05T12:30-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2027-02-05T12:30",
+  "end": "2027-02-05T13:15",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "holiday-2027-02-08",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-02-08",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-02-09",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-02-09",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-02-10",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-02-10",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-02-11",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-02-11",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-02-12",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-02-12",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "980800-2027-03-15T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-03-15T08:15",
+  "end": "2027-03-15T09:45",
+  "teachers": [
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983475-2027-03-15T10:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-03-15T10:15",
+  "end": "2027-03-15T11:00",
+  "teachers": [
+   "Moestl"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983478-2027-03-15T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-03-15T11:00",
+  "end": "2027-03-15T11:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975060-2027-03-15T12:30-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2027-03-15T12:30",
+  "end": "2027-03-15T13:15",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982719-2027-03-15T13:15-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2027-03-15T13:15",
+  "end": "2027-03-15T14:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979117-2027-03-15T14:00-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2027-03-15T14:00",
+  "end": "2027-03-15T15:45",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976179-2027-03-16T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2027-03-16T07:30",
+  "end": "2027-03-16T08:15",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980806-2027-03-16T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-03-16T08:15",
+  "end": "2027-03-16T09:45",
+  "teachers": [
+   "Seitz",
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981895-2027-03-16T10:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2027-03-16T10:15",
+  "end": "2027-03-16T12:30",
+  "teachers": [
+   "Lange",
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983481-2027-03-16T13:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-03-16T13:15",
+  "end": "2027-03-16T14:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983487-2027-03-16T15:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-03-16T15:00",
+  "end": "2027-03-16T15:45",
+  "teachers": [
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976182-2027-03-17T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2027-03-17T07:30",
+  "end": "2027-03-17T09:00",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980812-2027-03-17T09:00-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-03-17T09:00",
+  "end": "2027-03-17T09:45",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980815-2027-03-17T10:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-03-17T10:15",
+  "end": "2027-03-17T11:00",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980026-2027-03-17T11:00-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2027-03-17T11:00",
+  "end": "2027-03-17T12:30",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981904-2027-03-17T13:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2027-03-17T13:15",
+  "end": "2027-03-17T14:45",
+  "teachers": [
+   "Lange"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "978018-2027-03-18T08:15-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2027-03-18T08:15",
+  "end": "2027-03-18T09:00",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977205-2027-03-18T09:00-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2027-03-18T09:00",
+  "end": "2027-03-18T09:45",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977208-2027-03-18T10:15-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2027-03-18T10:15",
+  "end": "2027-03-18T11:00",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983490-2027-03-18T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-03-18T11:00",
+  "end": "2027-03-18T11:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979123-2027-03-18T11:45-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2027-03-18T11:45",
+  "end": "2027-03-18T12:30",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981910-2027-03-18T12:30-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2027-03-18T12:30",
+  "end": "2027-03-18T14:00",
+  "teachers": [
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982722-2027-03-19T07:30-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2027-03-19T07:30",
+  "end": "2027-03-19T09:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975063-2027-03-19T09:00-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2027-03-19T09:00",
+  "end": "2027-03-19T09:45",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975066-2027-03-19T10:15-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2027-03-19T10:15",
+  "end": "2027-03-19T11:00",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "978021-2027-03-19T11:00-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2027-03-19T11:00",
+  "end": "2027-03-19T12:30",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980032-2027-03-19T12:30-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2027-03-19T12:30",
+  "end": "2027-03-19T13:15",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "holiday-2027-03-22",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-03-22",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-03-23",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-03-23",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-03-24",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-03-24",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-03-25",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-03-25",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-03-26",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-03-26",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-03-29",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-03-29",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-03-30",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-03-30",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-03-31",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-03-31",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-04-01",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-04-01",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-04-02",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-04-02",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "980818-2027-05-03T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-05-03T08:15",
+  "end": "2027-05-03T09:45",
+  "teachers": [
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983493-2027-05-03T10:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-05-03T10:15",
+  "end": "2027-05-03T11:00",
+  "teachers": [
+   "Moestl"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983496-2027-05-03T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-05-03T11:00",
+  "end": "2027-05-03T11:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975069-2027-05-03T12:30-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2027-05-03T12:30",
+  "end": "2027-05-03T13:15",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982728-2027-05-03T13:15-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2027-05-03T13:15",
+  "end": "2027-05-03T14:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979126-2027-05-03T14:00-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2027-05-03T14:00",
+  "end": "2027-05-03T15:45",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976188-2027-05-04T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2027-05-04T07:30",
+  "end": "2027-05-04T08:15",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980824-2027-05-04T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-05-04T08:15",
+  "end": "2027-05-04T09:45",
+  "teachers": [
+   "Seitz",
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981916-2027-05-04T10:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2027-05-04T10:15",
+  "end": "2027-05-04T12:30",
+  "teachers": [
+   "Lange",
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983499-2027-05-04T13:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-05-04T13:15",
+  "end": "2027-05-04T14:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983505-2027-05-04T15:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-05-04T15:00",
+  "end": "2027-05-04T15:45",
+  "teachers": [
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976191-2027-05-05T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2027-05-05T07:30",
+  "end": "2027-05-05T09:00",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980830-2027-05-05T09:00-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-05-05T09:00",
+  "end": "2027-05-05T09:45",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980833-2027-05-05T10:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-05-05T10:15",
+  "end": "2027-05-05T11:00",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980035-2027-05-05T11:00-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2027-05-05T11:00",
+  "end": "2027-05-05T12:30",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981925-2027-05-05T13:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2027-05-05T13:15",
+  "end": "2027-05-05T14:45",
+  "teachers": [
+   "Lange"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "holiday-2027-05-06",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-05-06",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "980836-2027-05-10T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-05-10T08:15",
+  "end": "2027-05-10T09:45",
+  "teachers": [
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983508-2027-05-10T10:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-05-10T10:15",
+  "end": "2027-05-10T11:00",
+  "teachers": [
+   "Moestl"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983511-2027-05-10T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-05-10T11:00",
+  "end": "2027-05-10T11:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975072-2027-05-10T12:30-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2027-05-10T12:30",
+  "end": "2027-05-10T13:15",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982731-2027-05-10T13:15-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2027-05-10T13:15",
+  "end": "2027-05-10T14:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979132-2027-05-10T14:00-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2027-05-10T14:00",
+  "end": "2027-05-10T15:45",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976197-2027-05-11T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2027-05-11T07:30",
+  "end": "2027-05-11T08:15",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980842-2027-05-11T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-05-11T08:15",
+  "end": "2027-05-11T09:45",
+  "teachers": [
+   "Seitz",
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981931-2027-05-11T10:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2027-05-11T10:15",
+  "end": "2027-05-11T12:30",
+  "teachers": [
+   "Lange",
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983514-2027-05-11T13:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-05-11T13:15",
+  "end": "2027-05-11T14:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983520-2027-05-11T15:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-05-11T15:00",
+  "end": "2027-05-11T15:45",
+  "teachers": [
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976200-2027-05-12T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2027-05-12T07:30",
+  "end": "2027-05-12T09:00",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980848-2027-05-12T09:00-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-05-12T09:00",
+  "end": "2027-05-12T09:45",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980851-2027-05-12T10:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-05-12T10:15",
+  "end": "2027-05-12T11:00",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980041-2027-05-12T11:00-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2027-05-12T11:00",
+  "end": "2027-05-12T12:30",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981940-2027-05-12T13:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2027-05-12T13:15",
+  "end": "2027-05-12T14:45",
+  "teachers": [
+   "Lange"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "978027-2027-05-13T08:15-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2027-05-13T08:15",
+  "end": "2027-05-13T09:00",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977211-2027-05-13T09:00-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2027-05-13T09:00",
+  "end": "2027-05-13T09:45",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977214-2027-05-13T10:15-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2027-05-13T10:15",
+  "end": "2027-05-13T11:00",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983523-2027-05-13T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-05-13T11:00",
+  "end": "2027-05-13T11:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979138-2027-05-13T11:45-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2027-05-13T11:45",
+  "end": "2027-05-13T12:30",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981946-2027-05-13T12:30-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2027-05-13T12:30",
+  "end": "2027-05-13T14:00",
+  "teachers": [
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982734-2027-05-14T07:30-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2027-05-14T07:30",
+  "end": "2027-05-14T09:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975075-2027-05-14T09:00-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2027-05-14T09:00",
+  "end": "2027-05-14T09:45",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975078-2027-05-14T10:15-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2027-05-14T10:15",
+  "end": "2027-05-14T11:00",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "978030-2027-05-14T11:00-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2027-05-14T11:00",
+  "end": "2027-05-14T12:30",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980047-2027-05-14T12:30-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2027-05-14T12:30",
+  "end": "2027-05-14T13:15",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "holiday-2027-05-17",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-05-17",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-05-18",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-05-18",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-05-19",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-05-19",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-05-20",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-05-20",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-05-21",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-05-21",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-05-24",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-05-24",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-05-25",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-05-25",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-05-26",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-05-26",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-05-27",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-05-27",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "holiday-2027-05-28",
+  "kind": "holiday",
+  "title": "Schulfrei / Ferien",
+  "date": "2027-05-28",
+  "status": "REGULAR",
+  "all_day": true
+ },
+ {
+  "uid_key": "976206-2027-06-30T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2027-06-30T07:30",
+  "end": "2027-06-30T09:00",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980854-2027-06-30T09:00-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-06-30T09:00",
+  "end": "2027-06-30T09:45",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980857-2027-06-30T10:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-06-30T10:15",
+  "end": "2027-06-30T11:00",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980050-2027-06-30T11:00-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2027-06-30T11:00",
+  "end": "2027-06-30T12:30",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981952-2027-06-30T13:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2027-06-30T13:15",
+  "end": "2027-06-30T14:45",
+  "teachers": [
+   "Lange"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "978036-2027-07-01T08:15-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2027-07-01T08:15",
+  "end": "2027-07-01T09:00",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977217-2027-07-01T09:00-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2027-07-01T09:00",
+  "end": "2027-07-01T09:45",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977220-2027-07-01T10:15-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2027-07-01T10:15",
+  "end": "2027-07-01T11:00",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983526-2027-07-01T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-07-01T11:00",
+  "end": "2027-07-01T11:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979141-2027-07-01T11:45-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2027-07-01T11:45",
+  "end": "2027-07-01T12:30",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981958-2027-07-01T12:30-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2027-07-01T12:30",
+  "end": "2027-07-01T14:00",
+  "teachers": [
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982740-2027-07-02T07:30-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2027-07-02T07:30",
+  "end": "2027-07-02T09:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975081-2027-07-02T09:00-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2027-07-02T09:00",
+  "end": "2027-07-02T09:45",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975084-2027-07-02T10:15-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2027-07-02T10:15",
+  "end": "2027-07-02T11:00",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "978039-2027-07-02T11:00-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2027-07-02T11:00",
+  "end": "2027-07-02T12:30",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980056-2027-07-02T12:30-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2027-07-02T12:30",
+  "end": "2027-07-02T13:15",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980860-2027-07-05T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-07-05T08:15",
+  "end": "2027-07-05T09:45",
+  "teachers": [
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983529-2027-07-05T10:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-07-05T10:15",
+  "end": "2027-07-05T11:00",
+  "teachers": [
+   "Moestl"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983532-2027-07-05T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-07-05T11:00",
+  "end": "2027-07-05T11:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975087-2027-07-05T12:30-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2027-07-05T12:30",
+  "end": "2027-07-05T13:15",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982746-2027-07-05T13:15-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2027-07-05T13:15",
+  "end": "2027-07-05T14:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979144-2027-07-05T14:00-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2027-07-05T14:00",
+  "end": "2027-07-05T15:45",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976212-2027-07-06T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2027-07-06T07:30",
+  "end": "2027-07-06T08:15",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980866-2027-07-06T08:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-07-06T08:15",
+  "end": "2027-07-06T09:45",
+  "teachers": [
+   "Seitz",
+   "Skrobek"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981964-2027-07-06T10:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2027-07-06T10:15",
+  "end": "2027-07-06T12:30",
+  "teachers": [
+   "Lange",
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983535-2027-07-06T13:15-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-07-06T13:15",
+  "end": "2027-07-06T14:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983541-2027-07-06T15:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-07-06T15:00",
+  "end": "2027-07-06T15:45",
+  "teachers": [
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "976215-2027-07-07T07:30-Deutsch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Deutsch",
+  "start": "2027-07-07T07:30",
+  "end": "2027-07-07T09:00",
+  "teachers": [
+   "Neugebauer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980872-2027-07-07T09:00-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-07-07T09:00",
+  "end": "2027-07-07T09:45",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980875-2027-07-07T10:15-IT-Technik 1",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 1",
+  "start": "2027-07-07T10:15",
+  "end": "2027-07-07T11:00",
+  "teachers": [
+   "Seitz"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980059-2027-07-07T11:00-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2027-07-07T11:00",
+  "end": "2027-07-07T12:30",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981973-2027-07-07T13:15-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2027-07-07T13:15",
+  "end": "2027-07-07T14:45",
+  "teachers": [
+   "Lange"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "978045-2027-07-08T08:15-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2027-07-08T08:15",
+  "end": "2027-07-08T09:00",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977223-2027-07-08T09:00-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2027-07-08T09:00",
+  "end": "2027-07-08T09:45",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "977226-2027-07-08T10:15-Sport",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Sport",
+  "start": "2027-07-08T10:15",
+  "end": "2027-07-08T11:00",
+  "teachers": [
+   "Vetter"
+  ],
+  "room": "Halle2",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "983544-2027-07-08T11:00-Anwendungsentwicklung und Programmierung",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Anwendungsentwicklung und Programmierung",
+  "start": "2027-07-08T11:00",
+  "end": "2027-07-08T11:45",
+  "teachers": [
+   "Moestl",
+   "Pomper"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "979150-2027-07-08T11:45-Ethik",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Ethik",
+  "start": "2027-07-08T11:45",
+  "end": "2027-07-08T12:30",
+  "teachers": [
+   "Schmid"
+  ],
+  "room": "4.3.14",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981979-2027-07-08T12:30-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2027-07-08T12:30",
+  "end": "2027-07-08T14:00",
+  "teachers": [
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982749-2027-07-09T07:30-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2027-07-09T07:30",
+  "end": "2027-07-09T09:00",
+  "teachers": [
+   "Junker"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975090-2027-07-09T09:00-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2027-07-09T09:00",
+  "end": "2027-07-09T09:45",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "975093-2027-07-09T10:15-Englisch",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Englisch",
+  "start": "2027-07-09T10:15",
+  "end": "2027-07-09T11:00",
+  "teachers": [
+   "Pfeiffer"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "978048-2027-07-09T11:00-Politik und Gesellschaft",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Politik und Gesellschaft",
+  "start": "2027-07-09T11:00",
+  "end": "2027-07-09T12:30",
+  "teachers": [
+   "Klose"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "980065-2027-07-09T12:30-Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "Betriebs- und Gesamtwirtschaftliche Prozesse",
+  "start": "2027-07-09T12:30",
+  "end": "2027-07-09T13:15",
+  "teachers": [
+   "Lau"
+  ],
+  "room": "2.0.22",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-09-01",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-09-01T09:00",
+  "end": "2026-09-01T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-09-02",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-09-02T09:00",
+  "end": "2026-09-02T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-09-03",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-09-03T09:00",
+  "end": "2026-09-03T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-09-04",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-09-04T09:00",
+  "end": "2026-09-04T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-09-07",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-09-07T09:00",
+  "end": "2026-09-07T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-09-08",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-09-08T09:00",
+  "end": "2026-09-08T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-09-09",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-09-09T09:00",
+  "end": "2026-09-09T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-09-10",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-09-10T09:00",
+  "end": "2026-09-10T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-09-11",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-09-11T09:00",
+  "end": "2026-09-11T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-09-14",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-09-14T09:00",
+  "end": "2026-09-14T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-09-15",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-09-15T09:00",
+  "end": "2026-09-15T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-09-16",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-09-16T09:00",
+  "end": "2026-09-16T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-09-18",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-09-18T09:00",
+  "end": "2026-09-18T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-09-21",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-09-21T09:00",
+  "end": "2026-09-21T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-09-22",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-09-22T09:00",
+  "end": "2026-09-22T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-09-23",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-09-23T09:00",
+  "end": "2026-09-23T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-09-24",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-09-24T09:00",
+  "end": "2026-09-24T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-09-25",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-09-25T09:00",
+  "end": "2026-09-25T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-09-28",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-09-28T09:00",
+  "end": "2026-09-28T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-09-29",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-09-29T09:00",
+  "end": "2026-09-29T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-09-30",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-09-30T09:00",
+  "end": "2026-09-30T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-10-01",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-10-01T09:00",
+  "end": "2026-10-01T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-10-02",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-10-02T09:00",
+  "end": "2026-10-02T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-10-19",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-10-19T09:00",
+  "end": "2026-10-19T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-10-20",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-10-20T09:00",
+  "end": "2026-10-20T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-10-21",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-10-21T09:00",
+  "end": "2026-10-21T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-10-22",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-10-22T09:00",
+  "end": "2026-10-22T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-10-23",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-10-23T09:00",
+  "end": "2026-10-23T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-10-26",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-10-26T09:00",
+  "end": "2026-10-26T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-10-27",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-10-27T09:00",
+  "end": "2026-10-27T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-10-28",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-10-28T09:00",
+  "end": "2026-10-28T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-10-29",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-10-29T09:00",
+  "end": "2026-10-29T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-10-30",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-10-30T09:00",
+  "end": "2026-10-30T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-11-09",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-11-09T09:00",
+  "end": "2026-11-09T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-11-10",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-11-10T09:00",
+  "end": "2026-11-10T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-11-11",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-11-11T09:00",
+  "end": "2026-11-11T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-11-12",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-11-12T09:00",
+  "end": "2026-11-12T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-11-13",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-11-13T09:00",
+  "end": "2026-11-13T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-11-16",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-11-16T09:00",
+  "end": "2026-11-16T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-11-17",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-11-17T09:00",
+  "end": "2026-11-17T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-11-19",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-11-19T09:00",
+  "end": "2026-11-19T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-11-20",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-11-20T09:00",
+  "end": "2026-11-20T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-12-14",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-12-14T09:00",
+  "end": "2026-12-14T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-12-15",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-12-15T09:00",
+  "end": "2026-12-15T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-12-16",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-12-16T09:00",
+  "end": "2026-12-16T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-12-17",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-12-17T09:00",
+  "end": "2026-12-17T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-12-18",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-12-18T09:00",
+  "end": "2026-12-18T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-12-21",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-12-21T09:00",
+  "end": "2026-12-21T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-12-22",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-12-22T09:00",
+  "end": "2026-12-22T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2026-12-23",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2026-12-23T09:00",
+  "end": "2026-12-23T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-01-11",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-01-11T09:00",
+  "end": "2027-01-11T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-01-12",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-01-12T09:00",
+  "end": "2027-01-12T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-01-13",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-01-13T09:00",
+  "end": "2027-01-13T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-01-14",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-01-14T09:00",
+  "end": "2027-01-14T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-01-15",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-01-15T09:00",
+  "end": "2027-01-15T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-01-18",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-01-18T09:00",
+  "end": "2027-01-18T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-01-19",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-01-19T09:00",
+  "end": "2027-01-19T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-01-20",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-01-20T09:00",
+  "end": "2027-01-20T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-01-21",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-01-21T09:00",
+  "end": "2027-01-21T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-01-22",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-01-22T09:00",
+  "end": "2027-01-22T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-02-15",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-02-15T09:00",
+  "end": "2027-02-15T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-02-16",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-02-16T09:00",
+  "end": "2027-02-16T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-02-17",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-02-17T09:00",
+  "end": "2027-02-17T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-02-18",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-02-18T09:00",
+  "end": "2027-02-18T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-02-19",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-02-19T09:00",
+  "end": "2027-02-19T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-02-22",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-02-22T09:00",
+  "end": "2027-02-22T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-02-23",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-02-23T09:00",
+  "end": "2027-02-23T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-02-24",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-02-24T09:00",
+  "end": "2027-02-24T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-02-25",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-02-25T09:00",
+  "end": "2027-02-25T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-02-26",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-02-26T09:00",
+  "end": "2027-02-26T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-03-01",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-03-01T09:00",
+  "end": "2027-03-01T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-03-02",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-03-02T09:00",
+  "end": "2027-03-02T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-03-03",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-03-03T09:00",
+  "end": "2027-03-03T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-03-04",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-03-04T09:00",
+  "end": "2027-03-04T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-03-05",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-03-05T09:00",
+  "end": "2027-03-05T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-03-08",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-03-08T09:00",
+  "end": "2027-03-08T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-03-09",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-03-09T09:00",
+  "end": "2027-03-09T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-03-10",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-03-10T09:00",
+  "end": "2027-03-10T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-03-11",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-03-11T09:00",
+  "end": "2027-03-11T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-03-12",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-03-12T09:00",
+  "end": "2027-03-12T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-04-05",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-04-05T09:00",
+  "end": "2027-04-05T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-04-06",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-04-06T09:00",
+  "end": "2027-04-06T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-04-07",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-04-07T09:00",
+  "end": "2027-04-07T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-04-08",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-04-08T09:00",
+  "end": "2027-04-08T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-04-09",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-04-09T09:00",
+  "end": "2027-04-09T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-04-12",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-04-12T09:00",
+  "end": "2027-04-12T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-04-13",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-04-13T09:00",
+  "end": "2027-04-13T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-04-14",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-04-14T09:00",
+  "end": "2027-04-14T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-04-15",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-04-15T09:00",
+  "end": "2027-04-15T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-04-16",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-04-16T09:00",
+  "end": "2027-04-16T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-04-19",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-04-19T09:00",
+  "end": "2027-04-19T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-04-20",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-04-20T09:00",
+  "end": "2027-04-20T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-04-21",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-04-21T09:00",
+  "end": "2027-04-21T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-04-22",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-04-22T09:00",
+  "end": "2027-04-22T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-04-23",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-04-23T09:00",
+  "end": "2027-04-23T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-04-26",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-04-26T09:00",
+  "end": "2027-04-26T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-04-27",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-04-27T09:00",
+  "end": "2027-04-27T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-04-28",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-04-28T09:00",
+  "end": "2027-04-28T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-04-29",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-04-29T09:00",
+  "end": "2027-04-29T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-04-30",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-04-30T09:00",
+  "end": "2027-04-30T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-05-07",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-05-07T09:00",
+  "end": "2027-05-07T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-05-31",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-05-31T09:00",
+  "end": "2027-05-31T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-06-01",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-06-01T09:00",
+  "end": "2027-06-01T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-06-02",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-06-02T09:00",
+  "end": "2027-06-02T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-06-03",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-06-03T09:00",
+  "end": "2027-06-03T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-06-04",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-06-04T09:00",
+  "end": "2027-06-04T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-06-07",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-06-07T09:00",
+  "end": "2027-06-07T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-06-08",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-06-08T09:00",
+  "end": "2027-06-08T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-06-09",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-06-09T09:00",
+  "end": "2027-06-09T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-06-10",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-06-10T09:00",
+  "end": "2027-06-10T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-06-11",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-06-11T09:00",
+  "end": "2027-06-11T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-06-14",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-06-14T09:00",
+  "end": "2027-06-14T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-06-15",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-06-15T09:00",
+  "end": "2027-06-15T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-06-16",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-06-16T09:00",
+  "end": "2027-06-16T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-06-17",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-06-17T09:00",
+  "end": "2027-06-17T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-06-18",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-06-18T09:00",
+  "end": "2027-06-18T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-06-21",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-06-21T09:00",
+  "end": "2027-06-21T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-06-22",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-06-22T09:00",
+  "end": "2027-06-22T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-06-23",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-06-23T09:00",
+  "end": "2027-06-23T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-06-24",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-06-24T09:00",
+  "end": "2027-06-24T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-06-25",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-06-25T09:00",
+  "end": "2027-06-25T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-06-28",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-06-28T09:00",
+  "end": "2027-06-28T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-06-29",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-06-29T09:00",
+  "end": "2027-06-29T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-07-12",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-07-12T09:00",
+  "end": "2027-07-12T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-07-13",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-07-13T09:00",
+  "end": "2027-07-13T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-07-14",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-07-14T09:00",
+  "end": "2027-07-14T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-07-15",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-07-15T09:00",
+  "end": "2027-07-15T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-07-16",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-07-16T09:00",
+  "end": "2027-07-16T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-07-19",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-07-19T09:00",
+  "end": "2027-07-19T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-07-20",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-07-20T09:00",
+  "end": "2027-07-20T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-07-21",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-07-21T09:00",
+  "end": "2027-07-21T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-07-22",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-07-22T09:00",
+  "end": "2027-07-22T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-07-23",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-07-23T09:00",
+  "end": "2027-07-23T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-07-26",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-07-26T09:00",
+  "end": "2027-07-26T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-07-27",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-07-27T09:00",
+  "end": "2027-07-27T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-07-28",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-07-28T09:00",
+  "end": "2027-07-28T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-07-29",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-07-29T09:00",
+  "end": "2027-07-29T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-07-30",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-07-30T09:00",
+  "end": "2027-07-30T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-02",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-02T09:00",
+  "end": "2027-08-02T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-03",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-03T09:00",
+  "end": "2027-08-03T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-04",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-04T09:00",
+  "end": "2027-08-04T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-05",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-05T09:00",
+  "end": "2027-08-05T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-06",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-06T09:00",
+  "end": "2027-08-06T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-09",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-09T09:00",
+  "end": "2027-08-09T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-10",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-10T09:00",
+  "end": "2027-08-10T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-11",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-11T09:00",
+  "end": "2027-08-11T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-12",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-12T09:00",
+  "end": "2027-08-12T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-13",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-13T09:00",
+  "end": "2027-08-13T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-16",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-16T09:00",
+  "end": "2027-08-16T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-17",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-17T09:00",
+  "end": "2027-08-17T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-18",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-18T09:00",
+  "end": "2027-08-18T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-19",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-19T09:00",
+  "end": "2027-08-19T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-20",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-20T09:00",
+  "end": "2027-08-20T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-23",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-23T09:00",
+  "end": "2027-08-23T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-24",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-24T09:00",
+  "end": "2027-08-24T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-25",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-25T09:00",
+  "end": "2027-08-25T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-26",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-26T09:00",
+  "end": "2027-08-26T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-27",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-27T09:00",
+  "end": "2027-08-27T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-30",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-30T09:00",
+  "end": "2027-08-30T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "work-2027-08-31",
+  "kind": "work",
+  "title": "Arbeit",
+  "start": "2027-08-31T09:00",
+  "end": "2027-08-31T17:00",
+  "teachers": [],
+  "room": "",
+  "status": "REGULAR",
+  "notes": "",
+  "all_day": false
+ }
+]
