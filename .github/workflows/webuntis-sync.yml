@@ -1,0 +1,59 @@
+name: webuntis-sync
+
+# WebUntis has no webhooks, so "event driven" = cheap hourly check that only acts
+# when the timetable actually changed (commit + feed update + GitHub issue).
+on:
+  schedule:
+    - cron: "17 4-20 * * *"   # hourly, 04:17-20:17 UTC (~06-22 Berlin)
+  workflow_dispatch: {}        # run it by hand from the Actions tab (use this for the first test)
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: webuntis-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch timetable and detect changes
+        id: sync
+        env:
+          WEBUNTIS_USER: ${{ secrets.WEBUNTIS_USER }}
+          WEBUNTIS_PASSWORD: ${{ secrets.WEBUNTIS_PASSWORD }}
+          WEBUNTIS_COOKIE: ${{ secrets.WEBUNTIS_COOKIE }}   # optional (SSO schools)
+        run: python3 webuntis_sync.py --out data
+
+      - name: Publish feed to the secret gist
+        if: steps.sync.outputs.changed == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GIST_TOKEN }}   # PAT with only the "gist" scope
+          GIST_ID: ${{ secrets.GIST_ID }}
+        run: gh gist edit "$GIST_ID" -f schedule.ics data/schedule.ics
+
+      - name: Commit new snapshot
+        if: steps.sync.outputs.changed == 'true'
+        run: |
+          git config user.name  "webuntis-sync"
+          git config user.email "webuntis-sync@users.noreply.github.com"
+          git add data
+          git commit -m "timetable: update $(date -u +%Y-%m-%dT%H:%MZ)"
+          git push
+
+      - name: Open an issue describing what changed
+        if: steps.sync.outputs.changed == 'true' && steps.sync.outputs.initial == 'false'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh issue create \
+            --title "Timetable changed $(date -u +%Y-%m-%d)" \
+            --body-file data/CHANGES.md
