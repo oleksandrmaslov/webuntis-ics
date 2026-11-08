@@ -1,4 +1,4 @@
-# Stundenplan (generated 2026-10-20)
+# Stundenplan (generated 2026-11-08)
 
 
 ## Week of 2026-08-31 (KW 36)
@@ -156,25 +156,25 @@
 ## Week of 2026-11-23 (KW 48)
 
 - 2026-11-23 Mon 08:15-09:45 IT-Technik 1 [2.0.22] Skrobek
-- 2026-11-23 Mon 10:15-11:00 Anwendungsentwicklung und Programmierung [2.0.22] Moestl
-- 2026-11-23 Mon 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper
+- 2026-11-23 Mon 10:15-11:00 Anwendungsentwicklung und Programmierung [2.0.22] Moestl _(changed)_
+- 2026-11-23 Mon 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper _(changed)_
 - 2026-11-23 Mon 12:30-13:15 Englisch [2.0.22] Pfeiffer
 - 2026-11-23 Mon 13:15-14:00 IT-Technik 2 [2.0.22] Junker
 - 2026-11-23 Mon 14:00-15:45 Ethik [4.3.14] Schmid
 - 2026-11-24 Tue 07:30-08:15 Deutsch [2.0.22] Neugebauer
 - 2026-11-24 Tue 08:15-09:45 IT-Technik 1 [2.0.22] Seitz, Skrobek
-- 2026-11-24 Tue 10:15-12:30 IT-Systeme [2.3.22] Lange, Schilberth
-- 2026-11-24 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper
-- 2026-11-24 Tue 15:00-15:45 Anwendungsentwicklung und Programmierung [2.0.22] Pomper
+- 2026-11-24 Tue 10:15-12:30 IT-Systeme [2.3.22] Lange, Ludwig, Schilberth
+- 2026-11-24 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper _(changed)_
+- 2026-11-24 Tue 15:00-15:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Pomper
 - 2026-11-25 Wed 07:30-09:00 Deutsch [2.0.22] Neugebauer — 1. Test: KI-Tools und Co
 - 2026-11-25 Wed 09:00-09:45 IT-Technik 1 [2.0.22] Seitz
 - 2026-11-25 Wed 10:15-11:00 IT-Technik 1 [2.0.22] Seitz
 - 2026-11-25 Wed 11:00-12:30 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau
-- 2026-11-25 Wed 13:15-14:45 IT-Systeme [2.3.22] Lange
+- 2026-11-25 Wed 13:15-14:45 IT-Systeme [2.3.22] Lange, Ludwig
 - 2026-11-26 Thu 08:15-09:00 Politik und Gesellschaft [2.0.22] Klose
 - 2026-11-26 Thu 09:00-09:45 Sport [Halle2] Vetter
 - 2026-11-26 Thu 10:15-11:00 Sport [Halle2] Vetter
-- 2026-11-26 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper — 1. Test: Skript Einstieg S. 1-9 (ohne Expertenaufgaben)
+- 2026-11-26 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper _(changed)_ — 1. Test: Skript Einstieg S. 1-9 (ohne Expertenaufgaben)
 - 2026-11-26 Thu 11:45-12:30 Ethik [4.3.14] Schmid
 - 2026-11-26 Thu 12:30-14:00 IT-Systeme [2.3.22] Schilberth
 - 2026-11-27 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker
@@ -186,25 +186,25 @@
 ## Week of 2026-11-30 (KW 49)
 
 - 2026-11-30 Mon 08:15-09:45 IT-Technik 1 [2.0.22] Skrobek
-- 2026-11-30 Mon 10:15-11:00 Anwendungsentwicklung und Programmierung [2.0.22] Moestl
-- 2026-11-30 Mon 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper
+- 2026-11-30 Mon 10:15-11:00 Anwendungsentwicklung und Programmierung [2.0.22] Moestl _(changed)_
+- 2026-11-30 Mon 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper _(changed)_
 - 2026-11-30 Mon 12:30-13:15 Englisch [2.0.22] Pfeiffer
 - 2026-11-30 Mon 13:15-14:00 IT-Technik 2 [2.0.22] Junker
 - 2026-11-30 Mon 14:00-15:45 Ethik [4.3.14] Schmid
 - 2026-12-01 Tue 07:30-08:15 Deutsch [2.0.22] Neugebauer
 - 2026-12-01 Tue 08:15-09:45 IT-Technik 1 [2.0.22] Seitz, Skrobek — Test: zu Inhalten aus Mebis Hardwarekurs
-- 2026-12-01 Tue 10:15-12:30 IT-Systeme [2.3.22] Lange, Schilberth
-- 2026-12-01 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper
-- 2026-12-01 Tue 15:00-15:45 Anwendungsentwicklung und Programmierung [2.0.22] Pomper
+- 2026-12-01 Tue 10:15-12:30 IT-Systeme [2.3.22] Lange, Ludwig, Schilberth
+- 2026-12-01 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper _(changed)_
+- 2026-12-01 Tue 15:00-15:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Pomper
 - 2026-12-02 Wed 07:30-09:00 Deutsch [2.0.22] Neugebauer
 - 2026-12-02 Wed 09:00-09:45 IT-Technik 1 [2.0.22] Seitz
 - 2026-12-02 Wed 10:15-11:00 IT-Technik 1 [2.0.22] Seitz
 - 2026-12-02 Wed 11:00-12:30 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau
-- 2026-12-02 Wed 13:15-14:45 IT-Systeme [2.3.22] Lange
+- 2026-12-02 Wed 13:15-14:45 IT-Systeme [2.3.22] Lange, Ludwig
 - 2026-12-03 Thu 08:15-09:00 Politik und Gesellschaft [2.0.22] Klose
 - 2026-12-03 Thu 09:00-09:45 Sport [Halle2] Vetter
 - 2026-12-03 Thu 10:15-11:00 Sport [Halle2] Vetter
-- 2026-12-03 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper
+- 2026-12-03 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper _(changed)_
 - 2026-12-03 Thu 11:45-12:30 Ethik [4.3.14] Schmid
 - 2026-12-03 Thu 12:30-14:00 IT-Systeme [2.3.22] Schilberth
 - 2026-12-04 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker
@@ -223,18 +223,18 @@
 - 2026-12-07 Mon 14:00-15:45 Ethik [4.3.14] Schmid
 - 2026-12-08 Tue 07:30-08:15 Deutsch [2.0.22] Neugebauer
 - 2026-12-08 Tue 08:15-09:45 IT-Technik 1 [2.0.22] Seitz, Skrobek
-- 2026-12-08 Tue 10:15-12:30 IT-Systeme [2.3.22] Lange, Schilberth
-- 2026-12-08 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper
-- 2026-12-08 Tue 15:00-15:45 Anwendungsentwicklung und Programmierung [2.0.22] Pomper
+- 2026-12-08 Tue 10:15-12:30 IT-Systeme [2.3.22] Lange, Ludwig, Schilberth
+- 2026-12-08 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper
+- 2026-12-08 Tue 15:00-15:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Pomper
 - 2026-12-09 Wed 07:30-09:00 Deutsch [2.0.22] Neugebauer
 - 2026-12-09 Wed 09:00-09:45 IT-Technik 1 [2.0.22] Seitz
 - 2026-12-09 Wed 10:15-11:00 IT-Technik 1 [2.0.22] Seitz
 - 2026-12-09 Wed 11:00-12:30 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau
-- 2026-12-09 Wed 13:15-14:45 IT-Systeme [2.3.22] Lange
+- 2026-12-09 Wed 13:15-14:45 IT-Systeme [2.3.22] Lange, Ludwig
 - 2026-12-10 Thu 08:15-09:00 Politik und Gesellschaft [2.0.22] Klose
 - 2026-12-10 Thu 09:00-09:45 Sport [Halle2] Vetter
 - 2026-12-10 Thu 10:15-11:00 Sport [Halle2] Vetter
-- 2026-12-10 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper
+- 2026-12-10 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper
 - 2026-12-10 Thu 11:45-12:30 Ethik [4.3.14] Schmid
 - 2026-12-10 Thu 12:30-14:00 IT-Systeme [2.3.22] Schilberth
 - 2026-12-11 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker
@@ -301,18 +301,18 @@
 - 2027-01-25 Mon 14:00-15:45 Ethik [4.3.14] Schmid
 - 2027-01-26 Tue 07:30-08:15 Deutsch [2.0.22] Neugebauer
 - 2027-01-26 Tue 08:15-09:45 IT-Technik 1 [2.0.22] Seitz, Skrobek
-- 2027-01-26 Tue 10:15-12:30 IT-Systeme [2.3.22] Lange, Schilberth
-- 2027-01-26 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper
-- 2027-01-26 Tue 15:00-15:45 Anwendungsentwicklung und Programmierung [2.0.22] Pomper
+- 2027-01-26 Tue 10:15-12:30 IT-Systeme [2.3.22] Lange, Ludwig, Schilberth
+- 2027-01-26 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper
+- 2027-01-26 Tue 15:00-15:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Pomper
 - 2027-01-27 Wed 07:30-09:00 Deutsch [2.0.22] Neugebauer
 - 2027-01-27 Wed 09:00-09:45 IT-Technik 1 [2.0.22] Seitz
 - 2027-01-27 Wed 10:15-11:00 IT-Technik 1 [2.0.22] Seitz
 - 2027-01-27 Wed 11:00-12:30 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau
-- 2027-01-27 Wed 13:15-14:45 IT-Systeme [2.3.22] Lange
+- 2027-01-27 Wed 13:15-14:45 IT-Systeme [2.3.22] Lange, Ludwig
 - 2027-01-28 Thu 08:15-09:00 Politik und Gesellschaft [2.0.22] Klose
 - 2027-01-28 Thu 09:00-09:45 Sport [Halle2] Vetter
 - 2027-01-28 Thu 10:15-11:00 Sport [Halle2] Vetter
-- 2027-01-28 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper
+- 2027-01-28 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper
 - 2027-01-28 Thu 11:45-12:30 Ethik [4.3.14] Schmid
 - 2027-01-28 Thu 12:30-14:00 IT-Systeme [2.3.22] Schilberth
 - 2027-01-29 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker
@@ -331,18 +331,18 @@
 - 2027-02-01 Mon 14:00-15:45 Ethik [4.3.14] Schmid
 - 2027-02-02 Tue 07:30-08:15 Deutsch [2.0.22] Neugebauer
 - 2027-02-02 Tue 08:15-09:45 IT-Technik 1 [2.0.22] Seitz, Skrobek
-- 2027-02-02 Tue 10:15-12:30 IT-Systeme [2.3.22] Lange, Schilberth
-- 2027-02-02 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper
-- 2027-02-02 Tue 15:00-15:45 Anwendungsentwicklung und Programmierung [2.0.22] Pomper
+- 2027-02-02 Tue 10:15-12:30 IT-Systeme [2.3.22] Lange, Ludwig, Schilberth
+- 2027-02-02 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper
+- 2027-02-02 Tue 15:00-15:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Pomper
 - 2027-02-03 Wed 07:30-09:00 Deutsch [2.0.22] Neugebauer
 - 2027-02-03 Wed 09:00-09:45 IT-Technik 1 [2.0.22] Seitz
 - 2027-02-03 Wed 10:15-11:00 IT-Technik 1 [2.0.22] Seitz
 - 2027-02-03 Wed 11:00-12:30 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau
-- 2027-02-03 Wed 13:15-14:45 IT-Systeme [2.3.22] Lange
+- 2027-02-03 Wed 13:15-14:45 IT-Systeme [2.3.22] Lange, Ludwig
 - 2027-02-04 Thu 08:15-09:00 Politik und Gesellschaft [2.0.22] Klose
 - 2027-02-04 Thu 09:00-09:45 Sport [Halle2] Vetter
 - 2027-02-04 Thu 10:15-11:00 Sport [Halle2] Vetter
-- 2027-02-04 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper
+- 2027-02-04 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper
 - 2027-02-04 Thu 11:45-12:30 Ethik [4.3.14] Schmid
 - 2027-02-04 Thu 12:30-14:00 IT-Systeme [2.3.22] Schilberth
 - 2027-02-05 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker
@@ -401,18 +401,18 @@
 - 2027-03-15 Mon 14:00-15:45 Ethik [4.3.14] Schmid
 - 2027-03-16 Tue 07:30-08:15 Deutsch [2.0.22] Neugebauer
 - 2027-03-16 Tue 08:15-09:45 IT-Technik 1 [2.0.22] Seitz, Skrobek
-- 2027-03-16 Tue 10:15-12:30 IT-Systeme [2.3.22] Lange, Schilberth
-- 2027-03-16 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper
-- 2027-03-16 Tue 15:00-15:45 Anwendungsentwicklung und Programmierung [2.0.22] Pomper
+- 2027-03-16 Tue 10:15-12:30 IT-Systeme [2.3.22] Lange, Ludwig, Schilberth
+- 2027-03-16 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper
+- 2027-03-16 Tue 15:00-15:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Pomper
 - 2027-03-17 Wed 07:30-09:00 Deutsch [2.0.22] Neugebauer
 - 2027-03-17 Wed 09:00-09:45 IT-Technik 1 [2.0.22] Seitz
 - 2027-03-17 Wed 10:15-11:00 IT-Technik 1 [2.0.22] Seitz
 - 2027-03-17 Wed 11:00-12:30 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau
-- 2027-03-17 Wed 13:15-14:45 IT-Systeme [2.3.22] Lange
+- 2027-03-17 Wed 13:15-14:45 IT-Systeme [2.3.22] Lange, Ludwig
 - 2027-03-18 Thu 08:15-09:00 Politik und Gesellschaft [2.0.22] Klose
 - 2027-03-18 Thu 09:00-09:45 Sport [Halle2] Vetter
 - 2027-03-18 Thu 10:15-11:00 Sport [Halle2] Vetter
-- 2027-03-18 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper
+- 2027-03-18 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper
 - 2027-03-18 Thu 11:45-12:30 Ethik [4.3.14] Schmid
 - 2027-03-18 Thu 12:30-14:00 IT-Systeme [2.3.22] Schilberth
 - 2027-03-19 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker
@@ -479,14 +479,14 @@
 - 2027-05-03 Mon 14:00-15:45 Ethik [4.3.14] Schmid
 - 2027-05-04 Tue 07:30-08:15 Deutsch [2.0.22] Neugebauer
 - 2027-05-04 Tue 08:15-09:45 IT-Technik 1 [2.0.22] Seitz, Skrobek
-- 2027-05-04 Tue 10:15-12:30 IT-Systeme [2.3.22] Lange, Schilberth
-- 2027-05-04 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper
-- 2027-05-04 Tue 15:00-15:45 Anwendungsentwicklung und Programmierung [2.0.22] Pomper
+- 2027-05-04 Tue 10:15-12:30 IT-Systeme [2.3.22] Lange, Ludwig, Schilberth
+- 2027-05-04 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper
+- 2027-05-04 Tue 15:00-15:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Pomper
 - 2027-05-05 Wed 07:30-09:00 Deutsch [2.0.22] Neugebauer
 - 2027-05-05 Wed 09:00-09:45 IT-Technik 1 [2.0.22] Seitz
 - 2027-05-05 Wed 10:15-11:00 IT-Technik 1 [2.0.22] Seitz
 - 2027-05-05 Wed 11:00-12:30 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau
-- 2027-05-05 Wed 13:15-14:45 IT-Systeme [2.3.22] Lange
+- 2027-05-05 Wed 13:15-14:45 IT-Systeme [2.3.22] Lange, Ludwig
 - 2027-05-06 Thu: **Schulfrei / Ferien**
 - 2027-05-07 Fri 09:00-17:00 Arbeit [] 
 
@@ -500,18 +500,18 @@
 - 2027-05-10 Mon 14:00-15:45 Ethik [4.3.14] Schmid
 - 2027-05-11 Tue 07:30-08:15 Deutsch [2.0.22] Neugebauer
 - 2027-05-11 Tue 08:15-09:45 IT-Technik 1 [2.0.22] Seitz, Skrobek
-- 2027-05-11 Tue 10:15-12:30 IT-Systeme [2.3.22] Lange, Schilberth
-- 2027-05-11 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper
-- 2027-05-11 Tue 15:00-15:45 Anwendungsentwicklung und Programmierung [2.0.22] Pomper
+- 2027-05-11 Tue 10:15-12:30 IT-Systeme [2.3.22] Lange, Ludwig, Schilberth
+- 2027-05-11 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper
+- 2027-05-11 Tue 15:00-15:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Pomper
 - 2027-05-12 Wed 07:30-09:00 Deutsch [2.0.22] Neugebauer
 - 2027-05-12 Wed 09:00-09:45 IT-Technik 1 [2.0.22] Seitz
 - 2027-05-12 Wed 10:15-11:00 IT-Technik 1 [2.0.22] Seitz
 - 2027-05-12 Wed 11:00-12:30 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau
-- 2027-05-12 Wed 13:15-14:45 IT-Systeme [2.3.22] Lange
+- 2027-05-12 Wed 13:15-14:45 IT-Systeme [2.3.22] Lange, Ludwig
 - 2027-05-13 Thu 08:15-09:00 Politik und Gesellschaft [2.0.22] Klose
 - 2027-05-13 Thu 09:00-09:45 Sport [Halle2] Vetter
 - 2027-05-13 Thu 10:15-11:00 Sport [Halle2] Vetter
-- 2027-05-13 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper
+- 2027-05-13 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper
 - 2027-05-13 Thu 11:45-12:30 Ethik [4.3.14] Schmid
 - 2027-05-13 Thu 12:30-14:00 IT-Systeme [2.3.22] Schilberth
 - 2027-05-14 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker
@@ -576,11 +576,11 @@
 - 2027-06-30 Wed 09:00-09:45 IT-Technik 1 [2.0.22] Seitz
 - 2027-06-30 Wed 10:15-11:00 IT-Technik 1 [2.0.22] Seitz
 - 2027-06-30 Wed 11:00-12:30 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau
-- 2027-06-30 Wed 13:15-14:45 IT-Systeme [2.3.22] Lange
+- 2027-06-30 Wed 13:15-14:45 IT-Systeme [2.3.22] Lange, Ludwig
 - 2027-07-01 Thu 08:15-09:00 Politik und Gesellschaft [2.0.22] Klose
 - 2027-07-01 Thu 09:00-09:45 Sport [Halle2] Vetter
 - 2027-07-01 Thu 10:15-11:00 Sport [Halle2] Vetter
-- 2027-07-01 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper
+- 2027-07-01 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper
 - 2027-07-01 Thu 11:45-12:30 Ethik [4.3.14] Schmid
 - 2027-07-01 Thu 12:30-14:00 IT-Systeme [2.3.22] Schilberth
 - 2027-07-02 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker
@@ -599,18 +599,18 @@
 - 2027-07-05 Mon 14:00-15:45 Ethik [4.3.14] Schmid
 - 2027-07-06 Tue 07:30-08:15 Deutsch [2.0.22] Neugebauer
 - 2027-07-06 Tue 08:15-09:45 IT-Technik 1 [2.0.22] Seitz, Skrobek
-- 2027-07-06 Tue 10:15-12:30 IT-Systeme [2.3.22] Lange, Schilberth
-- 2027-07-06 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper
-- 2027-07-06 Tue 15:00-15:45 Anwendungsentwicklung und Programmierung [2.0.22] Pomper
+- 2027-07-06 Tue 10:15-12:30 IT-Systeme [2.3.22] Lange, Ludwig, Schilberth
+- 2027-07-06 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper
+- 2027-07-06 Tue 15:00-15:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Pomper
 - 2027-07-07 Wed 07:30-09:00 Deutsch [2.0.22] Neugebauer
 - 2027-07-07 Wed 09:00-09:45 IT-Technik 1 [2.0.22] Seitz
 - 2027-07-07 Wed 10:15-11:00 IT-Technik 1 [2.0.22] Seitz
 - 2027-07-07 Wed 11:00-12:30 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau
-- 2027-07-07 Wed 13:15-14:45 IT-Systeme [2.3.22] Lange
+- 2027-07-07 Wed 13:15-14:45 IT-Systeme [2.3.22] Lange, Ludwig
 - 2027-07-08 Thu 08:15-09:00 Politik und Gesellschaft [2.0.22] Klose
 - 2027-07-08 Thu 09:00-09:45 Sport [Halle2] Vetter
 - 2027-07-08 Thu 10:15-11:00 Sport [Halle2] Vetter
-- 2027-07-08 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper
+- 2027-07-08 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper
 - 2027-07-08 Thu 11:45-12:30 Ethik [4.3.14] Schmid
 - 2027-07-08 Thu 12:30-14:00 IT-Systeme [2.3.22] Schilberth
 - 2027-07-09 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker
