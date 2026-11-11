@@ -1,4 +1,4 @@
-# Stundenplan (generated 2026-11-08)
+# Stundenplan (generated 2026-11-11)
 
 
 ## Week of 2026-08-31 (KW 36)
@@ -181,7 +181,7 @@
 - 2026-11-27 Fri 09:00-09:45 Englisch [2.0.22] Pfeiffer
 - 2026-11-27 Fri 10:15-11:00 Englisch [2.0.22] Pfeiffer
 - 2026-11-27 Fri 11:00-12:30 Politik und Gesellschaft [2.0.22] Klose — 1. Schulaufgabe PuG
-- 2026-11-27 Fri 12:30-13:15 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau
+- 2026-11-27 Fri 12:30-13:15 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau _(changed)_
 
 ## Week of 2026-11-30 (KW 49)
 
