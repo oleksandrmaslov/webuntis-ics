@@ -1,4 +1,4 @@
-# Stundenplan (generated 2026-11-11)
+# Stundenplan (generated 2026-11-17)
 
 
 ## Week of 2026-08-31 (KW 36)
@@ -156,15 +156,16 @@
 ## Week of 2026-11-23 (KW 48)
 
 - 2026-11-23 Mon 08:15-09:45 IT-Technik 1 [2.0.22] Skrobek
-- 2026-11-23 Mon 10:15-11:00 Anwendungsentwicklung und Programmierung [2.0.22] Moestl _(changed)_
-- 2026-11-23 Mon 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper _(changed)_
+- 2026-11-23 Mon 10:15-11:00 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau _(additional)_
+- 2026-11-23 Mon 10:15-11:00 Anwendungsentwicklung und Programmierung [2.0.22] Moestl _(cancelled)_
+- 2026-11-23 Mon 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Pomper _(changed)_
 - 2026-11-23 Mon 12:30-13:15 Englisch [2.0.22] Pfeiffer
 - 2026-11-23 Mon 13:15-14:00 IT-Technik 2 [2.0.22] Junker
 - 2026-11-23 Mon 14:00-15:45 Ethik [4.3.14] Schmid
 - 2026-11-24 Tue 07:30-08:15 Deutsch [2.0.22] Neugebauer
 - 2026-11-24 Tue 08:15-09:45 IT-Technik 1 [2.0.22] Seitz, Skrobek
 - 2026-11-24 Tue 10:15-12:30 IT-Systeme [2.3.22] Lange, Ludwig, Schilberth
-- 2026-11-24 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper _(changed)_
+- 2026-11-24 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Pomper _(changed)_
 - 2026-11-24 Tue 15:00-15:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Pomper
 - 2026-11-25 Wed 07:30-09:00 Deutsch [2.0.22] Neugebauer — 1. Test: KI-Tools und Co
 - 2026-11-25 Wed 09:00-09:45 IT-Technik 1 [2.0.22] Seitz
@@ -174,19 +175,20 @@
 - 2026-11-26 Thu 08:15-09:00 Politik und Gesellschaft [2.0.22] Klose
 - 2026-11-26 Thu 09:00-09:45 Sport [Halle2] Vetter
 - 2026-11-26 Thu 10:15-11:00 Sport [Halle2] Vetter
-- 2026-11-26 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper _(changed)_ — 1. Test: Skript Einstieg S. 1-9 (ohne Expertenaufgaben)
+- 2026-11-26 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Pomper _(changed)_ — 1. Test: Skript Einstieg S. 1-9 (ohne Expertenaufgaben)
 - 2026-11-26 Thu 11:45-12:30 Ethik [4.3.14] Schmid
 - 2026-11-26 Thu 12:30-14:00 IT-Systeme [2.3.22] Schilberth
 - 2026-11-27 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker
 - 2026-11-27 Fri 09:00-09:45 Englisch [2.0.22] Pfeiffer
 - 2026-11-27 Fri 10:15-11:00 Englisch [2.0.22] Pfeiffer
 - 2026-11-27 Fri 11:00-12:30 Politik und Gesellschaft [2.0.22] Klose — 1. Schulaufgabe PuG
-- 2026-11-27 Fri 12:30-13:15 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau _(changed)_
+- 2026-11-27 Fri 12:30-13:15 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau _(cancelled)_
 
 ## Week of 2026-11-30 (KW 49)
 
 - 2026-11-30 Mon 08:15-09:45 IT-Technik 1 [2.0.22] Skrobek
-- 2026-11-30 Mon 10:15-11:00 Anwendungsentwicklung und Programmierung [2.0.22] Moestl _(changed)_
+- 2026-11-30 Mon 10:15-11:00 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau _(additional)_
+- 2026-11-30 Mon 10:15-11:00 Anwendungsentwicklung und Programmierung [2.0.22] Moestl _(cancelled)_
 - 2026-11-30 Mon 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper _(changed)_
 - 2026-11-30 Mon 12:30-13:15 Englisch [2.0.22] Pfeiffer
 - 2026-11-30 Mon 13:15-14:00 IT-Technik 2 [2.0.22] Junker
