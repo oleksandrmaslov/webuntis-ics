@@ -1,4 +1,4 @@
-# Stundenplan (generated 2026-11-17)
+# Stundenplan (generated 2026-11-23)
 
 
 ## Week of 2026-08-31 (KW 36)
@@ -170,7 +170,7 @@
 - 2026-11-25 Wed 07:30-09:00 Deutsch [2.0.22] Neugebauer — 1. Test: KI-Tools und Co
 - 2026-11-25 Wed 09:00-09:45 IT-Technik 1 [2.0.22] Seitz
 - 2026-11-25 Wed 10:15-11:00 IT-Technik 1 [2.0.22] Seitz
-- 2026-11-25 Wed 11:00-12:30 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau
+- 2026-11-25 Wed 11:00-12:30 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau — Nachschreiber BGP Test
 - 2026-11-25 Wed 13:15-14:45 IT-Systeme [2.3.22] Lange, Ludwig
 - 2026-11-26 Thu 08:15-09:00 Politik und Gesellschaft [2.0.22] Klose
 - 2026-11-26 Thu 09:00-09:45 Sport [Halle2] Vetter
@@ -178,7 +178,7 @@
 - 2026-11-26 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Pomper _(changed)_ — 1. Test: Skript Einstieg S. 1-9 (ohne Expertenaufgaben)
 - 2026-11-26 Thu 11:45-12:30 Ethik [4.3.14] Schmid
 - 2026-11-26 Thu 12:30-14:00 IT-Systeme [2.3.22] Schilberth
-- 2026-11-27 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker
+- 2026-11-27 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker, Müller, Winner
 - 2026-11-27 Fri 09:00-09:45 Englisch [2.0.22] Pfeiffer
 - 2026-11-27 Fri 10:15-11:00 Englisch [2.0.22] Pfeiffer
 - 2026-11-27 Fri 11:00-12:30 Politik und Gesellschaft [2.0.22] Klose — 1. Schulaufgabe PuG
@@ -209,7 +209,7 @@
 - 2026-12-03 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper _(changed)_
 - 2026-12-03 Thu 11:45-12:30 Ethik [4.3.14] Schmid
 - 2026-12-03 Thu 12:30-14:00 IT-Systeme [2.3.22] Schilberth
-- 2026-12-04 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker
+- 2026-12-04 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker, Müller, Winner
 - 2026-12-04 Fri 09:00-09:45 Englisch [2.0.22] Pfeiffer
 - 2026-12-04 Fri 10:15-11:00 Englisch [2.0.22] Pfeiffer
 - 2026-12-04 Fri 11:00-12:30 Politik und Gesellschaft [2.0.22] Klose
@@ -239,10 +239,10 @@
 - 2026-12-10 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper
 - 2026-12-10 Thu 11:45-12:30 Ethik [4.3.14] Schmid
 - 2026-12-10 Thu 12:30-14:00 IT-Systeme [2.3.22] Schilberth
-- 2026-12-11 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker
+- 2026-12-11 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker, Müller, Winner
 - 2026-12-11 Fri 09:00-09:45 Englisch [2.0.22] Pfeiffer
 - 2026-12-11 Fri 10:15-11:00 Englisch [2.0.22] Pfeiffer
-- 2026-12-11 Fri 11:00-12:30 Politik und Gesellschaft [2.0.22] Klose
+- 2026-12-11 Fri 11:00-12:30 Politik und Gesellschaft [2.0.22] Klose — voraussichtlich: Test zu Betriebsrat und JAV - Änderungen noch möglich
 - 2026-12-11 Fri 12:30-13:15 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau
 
 ## Week of 2026-12-14 (KW 51)
@@ -317,7 +317,7 @@
 - 2027-01-28 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper
 - 2027-01-28 Thu 11:45-12:30 Ethik [4.3.14] Schmid
 - 2027-01-28 Thu 12:30-14:00 IT-Systeme [2.3.22] Schilberth
-- 2027-01-29 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker
+- 2027-01-29 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker, Müller, Winner
 - 2027-01-29 Fri 09:00-09:45 Englisch [2.0.22] Pfeiffer
 - 2027-01-29 Fri 10:15-11:00 Englisch [2.0.22] Pfeiffer
 - 2027-01-29 Fri 11:00-12:30 Politik und Gesellschaft [2.0.22] Klose
@@ -347,7 +347,7 @@
 - 2027-02-04 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper
 - 2027-02-04 Thu 11:45-12:30 Ethik [4.3.14] Schmid
 - 2027-02-04 Thu 12:30-14:00 IT-Systeme [2.3.22] Schilberth
-- 2027-02-05 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker
+- 2027-02-05 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker, Müller, Winner
 - 2027-02-05 Fri 09:00-09:45 Englisch [2.0.22] Pfeiffer
 - 2027-02-05 Fri 10:15-11:00 Englisch [2.0.22] Pfeiffer
 - 2027-02-05 Fri 11:00-12:30 Politik und Gesellschaft [2.0.22] Klose
@@ -417,7 +417,7 @@
 - 2027-03-18 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper
 - 2027-03-18 Thu 11:45-12:30 Ethik [4.3.14] Schmid
 - 2027-03-18 Thu 12:30-14:00 IT-Systeme [2.3.22] Schilberth
-- 2027-03-19 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker
+- 2027-03-19 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker, Müller, Winner
 - 2027-03-19 Fri 09:00-09:45 Englisch [2.0.22] Pfeiffer
 - 2027-03-19 Fri 10:15-11:00 Englisch [2.0.22] Pfeiffer
 - 2027-03-19 Fri 11:00-12:30 Politik und Gesellschaft [2.0.22] Klose
@@ -516,7 +516,7 @@
 - 2027-05-13 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper
 - 2027-05-13 Thu 11:45-12:30 Ethik [4.3.14] Schmid
 - 2027-05-13 Thu 12:30-14:00 IT-Systeme [2.3.22] Schilberth
-- 2027-05-14 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker
+- 2027-05-14 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker, Müller, Winner
 - 2027-05-14 Fri 09:00-09:45 Englisch [2.0.22] Pfeiffer
 - 2027-05-14 Fri 10:15-11:00 Englisch [2.0.22] Pfeiffer
 - 2027-05-14 Fri 11:00-12:30 Politik und Gesellschaft [2.0.22] Klose
@@ -585,7 +585,7 @@
 - 2027-07-01 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper
 - 2027-07-01 Thu 11:45-12:30 Ethik [4.3.14] Schmid
 - 2027-07-01 Thu 12:30-14:00 IT-Systeme [2.3.22] Schilberth
-- 2027-07-02 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker
+- 2027-07-02 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker, Müller, Winner
 - 2027-07-02 Fri 09:00-09:45 Englisch [2.0.22] Pfeiffer
 - 2027-07-02 Fri 10:15-11:00 Englisch [2.0.22] Pfeiffer
 - 2027-07-02 Fri 11:00-12:30 Politik und Gesellschaft [2.0.22] Klose
@@ -615,7 +615,7 @@
 - 2027-07-08 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper
 - 2027-07-08 Thu 11:45-12:30 Ethik [4.3.14] Schmid
 - 2027-07-08 Thu 12:30-14:00 IT-Systeme [2.3.22] Schilberth
-- 2027-07-09 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker
+- 2027-07-09 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker, Müller, Winner
 - 2027-07-09 Fri 09:00-09:45 Englisch [2.0.22] Pfeiffer
 - 2027-07-09 Fri 10:15-11:00 Englisch [2.0.22] Pfeiffer
 - 2027-07-09 Fri 11:00-12:30 Politik und Gesellschaft [2.0.22] Klose

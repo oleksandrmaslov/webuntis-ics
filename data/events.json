@@ -1239,7 +1239,7 @@
   ],
   "room": "2.0.22",
   "status": "REGULAR",
-  "notes": "",
+  "notes": "Nachschreiber BGP Test",
   "all_day": false
  },
  {
@@ -1349,7 +1349,9 @@
   "start": "2026-11-27T07:30",
   "end": "2026-11-27T09:00",
   "teachers": [
-   "Junker"
+   "Junker",
+   "Müller",
+   "Winner"
   ],
   "room": "2.0.22",
   "status": "REGULAR",
@@ -1751,7 +1753,9 @@
   "start": "2026-12-04T07:30",
   "end": "2026-12-04T09:00",
   "teachers": [
-   "Junker"
+   "Junker",
+   "Müller",
+   "Winner"
   ],
   "room": "2.0.22",
   "status": "REGULAR",
@@ -2139,7 +2143,9 @@
   "start": "2026-12-11T07:30",
   "end": "2026-12-11T09:00",
   "teachers": [
-   "Junker"
+   "Junker",
+   "Müller",
+   "Winner"
   ],
   "room": "2.0.22",
   "status": "REGULAR",
@@ -2185,7 +2191,7 @@
   ],
   "room": "2.0.22",
   "status": "REGULAR",
-  "notes": "",
+  "notes": "voraussichtlich: Test zu Betriebsrat und JAV - Änderungen noch möglich",
   "all_day": false
  },
  {
@@ -2623,7 +2629,9 @@
   "start": "2027-01-29T07:30",
   "end": "2027-01-29T09:00",
   "teachers": [
-   "Junker"
+   "Junker",
+   "Müller",
+   "Winner"
   ],
   "room": "2.0.22",
   "status": "REGULAR",
@@ -3011,7 +3019,9 @@
   "start": "2027-02-05T07:30",
   "end": "2027-02-05T09:00",
   "teachers": [
-   "Junker"
+   "Junker",
+   "Müller",
+   "Winner"
   ],
   "room": "2.0.22",
   "status": "REGULAR",
@@ -3439,7 +3449,9 @@
   "start": "2027-03-19T07:30",
   "end": "2027-03-19T09:00",
   "teachers": [
-   "Junker"
+   "Junker",
+   "Müller",
+   "Winner"
   ],
   "room": "2.0.22",
   "status": "REGULAR",
@@ -4147,7 +4159,9 @@
   "start": "2027-05-14T07:30",
   "end": "2027-05-14T09:00",
   "teachers": [
-   "Junker"
+   "Junker",
+   "Müller",
+   "Winner"
   ],
   "room": "2.0.22",
   "status": "REGULAR",
@@ -4454,7 +4468,9 @@
   "start": "2027-07-02T07:30",
   "end": "2027-07-02T09:00",
   "teachers": [
-   "Junker"
+   "Junker",
+   "Müller",
+   "Winner"
   ],
   "room": "2.0.22",
   "status": "REGULAR",
@@ -4842,7 +4858,9 @@
   "start": "2027-07-09T07:30",
   "end": "2027-07-09T09:00",
   "teachers": [
-   "Junker"
+   "Junker",
+   "Müller",
+   "Winner"
   ],
   "room": "2.0.22",
   "status": "REGULAR",
