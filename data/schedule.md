@@ -187,12 +187,12 @@
 
 ## Week of 2026-11-30 (KW 49)
 
-- 2026-11-30 Mon 08:15-09:45 IT-Technik 1 [2.0.22] Skrobek
-- 2026-11-30 Mon 10:15-11:00 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau _(additional)_
+- 2026-11-30 Mon 08:15-09:45 IT-Technik 1 [2.0.22] Skrobek — Distanztag Anmeldung: Nachname, Vorname (ohne Komma)
+- 2026-11-30 Mon 10:15-11:00 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau _(additional)_ — Distanztag Anmeldung: Nachname, Vorname (ohne Komma)
 - 2026-11-30 Mon 10:15-11:00 Anwendungsentwicklung und Programmierung [2.0.22] Moestl _(cancelled)_
-- 2026-11-30 Mon 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper _(changed)_
-- 2026-11-30 Mon 12:30-13:15 Englisch [2.0.22] Pfeiffer
-- 2026-11-30 Mon 13:15-14:00 IT-Technik 2 [2.0.22] Junker
+- 2026-11-30 Mon 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper _(changed)_ — Distanztag Anmeldung: Nachname, Vorname (ohne Komma)
+- 2026-11-30 Mon 12:30-13:15 Englisch [2.0.22] Pfeiffer — Distanztag Anmeldung: Nachname, Vorname (ohne Komma)
+- 2026-11-30 Mon 13:15-14:00 IT-Technik 2 [2.0.22] Junker — Distanztag Anmeldung: Nachname, Vorname (ohne Komma)
 - 2026-11-30 Mon 14:00-15:45 Ethik [4.3.14] Schmid
 - 2026-12-01 Tue 07:30-08:15 Deutsch [2.0.22] Neugebauer
 - 2026-12-01 Tue 08:15-09:45 IT-Technik 1 [2.0.22] Seitz, Skrobek — Test: zu Inhalten aus Mebis Hardwarekurs
