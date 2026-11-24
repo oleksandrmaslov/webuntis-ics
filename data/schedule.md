@@ -1,4 +1,4 @@
-# Stundenplan (generated 2026-11-23)
+# Stundenplan (generated 2026-11-24)
 
 
 ## Week of 2026-08-31 (KW 36)
@@ -164,7 +164,8 @@
 - 2026-11-23 Mon 14:00-15:45 Ethik [4.3.14] Schmid
 - 2026-11-24 Tue 07:30-08:15 Deutsch [2.0.22] Neugebauer
 - 2026-11-24 Tue 08:15-09:45 IT-Technik 1 [2.0.22] Seitz, Skrobek
-- 2026-11-24 Tue 10:15-12:30 IT-Systeme [2.3.22] Lange, Ludwig, Schilberth
+- 2026-11-24 Tue 10:15-11:00 IT-Systeme [2.3.22] Ludwig, Schilberth _(changed)_
+- 2026-11-24 Tue 11:00-12:30 IT-Systeme [2.3.22] Lange, Ludwig, Schilberth
 - 2026-11-24 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Pomper _(changed)_
 - 2026-11-24 Tue 15:00-15:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Pomper
 - 2026-11-25 Wed 07:30-09:00 Deutsch [2.0.22] Neugebauer — 1. Test: KI-Tools und Co

@@ -1145,6 +1145,21 @@
   "kind": "NORMAL_TEACHING_PERIOD",
   "title": "IT-Systeme",
   "start": "2026-11-24T10:15",
+  "end": "2026-11-24T11:00",
+  "teachers": [
+   "Ludwig",
+   "Schilberth"
+  ],
+  "room": "2.3.22",
+  "status": "CHANGED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "981793-2026-11-24T11:00-IT-Systeme",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Systeme",
+  "start": "2026-11-24T11:00",
   "end": "2026-11-24T12:30",
   "teachers": [
    "Lange",
