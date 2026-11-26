@@ -1,4 +1,4 @@
-# Stundenplan (generated 2026-11-24)
+# Stundenplan (generated 2026-11-26)
 
 
 ## Week of 2026-08-31 (KW 36)
@@ -190,14 +190,14 @@
 - 2026-11-30 Mon 08:15-09:45 IT-Technik 1 [2.0.22] Skrobek — Distanztag Anmeldung: Nachname, Vorname (ohne Komma)
 - 2026-11-30 Mon 10:15-11:00 Betriebs- und Gesamtwirtschaftliche Prozesse [2.0.22] Lau _(additional)_ — Distanztag Anmeldung: Nachname, Vorname (ohne Komma)
 - 2026-11-30 Mon 10:15-11:00 Anwendungsentwicklung und Programmierung [2.0.22] Moestl _(cancelled)_
-- 2026-11-30 Mon 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Moestl, Pomper _(changed)_ — Distanztag Anmeldung: Nachname, Vorname (ohne Komma)
+- 2026-11-30 Mon 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Pomper _(changed)_ — Distanztag Anmeldung: Nachname, Vorname (ohne Komma)
 - 2026-11-30 Mon 12:30-13:15 Englisch [2.0.22] Pfeiffer — Distanztag Anmeldung: Nachname, Vorname (ohne Komma)
 - 2026-11-30 Mon 13:15-14:00 IT-Technik 2 [2.0.22] Junker — Distanztag Anmeldung: Nachname, Vorname (ohne Komma)
 - 2026-11-30 Mon 14:00-15:45 Ethik [4.3.14] Schmid
 - 2026-12-01 Tue 07:30-08:15 Deutsch [2.0.22] Neugebauer
 - 2026-12-01 Tue 08:15-09:45 IT-Technik 1 [2.0.22] Seitz, Skrobek — Test: zu Inhalten aus Mebis Hardwarekurs
-- 2026-12-01 Tue 10:15-12:30 IT-Systeme [2.3.22] Lange, Ludwig, Schilberth
-- 2026-12-01 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper _(changed)_
+- 2026-12-01 Tue 10:15-12:30 IT-Systeme [2.3.22] Ludwig, Schilberth _(changed)_
+- 2026-12-01 Tue 13:15-14:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Pomper _(changed)_
 - 2026-12-01 Tue 15:00-15:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Pomper
 - 2026-12-02 Wed 07:30-09:00 Deutsch [2.0.22] Neugebauer
 - 2026-12-02 Wed 09:00-09:45 IT-Technik 1 [2.0.22] Seitz
@@ -207,10 +207,11 @@
 - 2026-12-03 Thu 08:15-09:00 Politik und Gesellschaft [2.0.22] Klose
 - 2026-12-03 Thu 09:00-09:45 Sport [Halle2] Vetter
 - 2026-12-03 Thu 10:15-11:00 Sport [Halle2] Vetter
-- 2026-12-03 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig, Moestl, Pomper _(changed)_
-- 2026-12-03 Thu 11:45-12:30 Ethik [4.3.14] Schmid
-- 2026-12-03 Thu 12:30-14:00 IT-Systeme [2.3.22] Schilberth
-- 2026-12-04 Fri 07:30-09:00 IT-Technik 2 [2.0.22] Junker, Müller, Winner
+- 2026-12-03 Thu 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Ludwig _(changed)_
+- 2026-12-03 Thu 11:45-12:30 Ethik [4.3.14] Schmid — Angabe Refeeate onepage  nach Liste Sicherung in der Bayerncloud
+- 2026-12-03 Thu 12:30-14:00 IT-Systeme [2.3.22] Schilberth — Test Lernsituation 1+2
+- 2026-12-04 Fri 07:30-08:15 IT-Technik 2 [2.0.22] Müller, Winner _(changed)_
+- 2026-12-04 Fri 08:15-09:00 IT-Technik 2 [2.0.22] Junker, Müller, Winner
 - 2026-12-04 Fri 09:00-09:45 Englisch [2.0.22] Pfeiffer
 - 2026-12-04 Fri 10:15-11:00 Englisch [2.0.22] Pfeiffer
 - 2026-12-04 Fri 11:00-12:30 Politik und Gesellschaft [2.0.22] Klose

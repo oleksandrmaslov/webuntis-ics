@@ -1478,7 +1478,6 @@
   "start": "2026-11-30T11:00",
   "end": "2026-11-30T11:45",
   "teachers": [
-   "Moestl",
    "Pomper"
   ],
   "room": "2.0.22",
@@ -1564,12 +1563,11 @@
   "start": "2026-12-01T10:15",
   "end": "2026-12-01T12:30",
   "teachers": [
-   "Lange",
    "Ludwig",
    "Schilberth"
   ],
   "room": "2.3.22",
-  "status": "REGULAR",
+  "status": "CHANGED",
   "notes": "",
   "all_day": false
  },
@@ -1581,7 +1579,6 @@
   "end": "2026-12-01T14:45",
   "teachers": [
    "Ludwig",
-   "Moestl",
    "Pomper"
   ],
   "room": "2.0.22",
@@ -1724,9 +1721,7 @@
   "start": "2026-12-03T11:00",
   "end": "2026-12-03T11:45",
   "teachers": [
-   "Ludwig",
-   "Moestl",
-   "Pomper"
+   "Ludwig"
   ],
   "room": "2.0.22",
   "status": "CHANGED",
@@ -1744,7 +1739,7 @@
   ],
   "room": "4.3.14",
   "status": "REGULAR",
-  "notes": "",
+  "notes": "Angabe Refeeate onepage  nach Liste Sicherung in der Bayerncloud",
   "all_day": false
  },
  {
@@ -1758,7 +1753,7 @@
   ],
   "room": "2.3.22",
   "status": "REGULAR",
-  "notes": "",
+  "notes": "Test Lernsituation 1+2",
   "all_day": false
  },
  {
@@ -1766,6 +1761,21 @@
   "kind": "NORMAL_TEACHING_PERIOD",
   "title": "IT-Technik 2",
   "start": "2026-12-04T07:30",
+  "end": "2026-12-04T08:15",
+  "teachers": [
+   "Müller",
+   "Winner"
+  ],
+  "room": "2.0.22",
+  "status": "CHANGED",
+  "notes": "",
+  "all_day": false
+ },
+ {
+  "uid_key": "982689-2026-12-04T08:15-IT-Technik 2",
+  "kind": "NORMAL_TEACHING_PERIOD",
+  "title": "IT-Technik 2",
+  "start": "2026-12-04T08:15",
   "end": "2026-12-04T09:00",
   "teachers": [
    "Junker",
