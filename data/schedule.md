@@ -1,4 +1,4 @@
-# Stundenplan (generated 2026-11-26)
+# Stundenplan (generated 2026-11-28)
 
 
 ## Week of 2026-08-31 (KW 36)
@@ -193,7 +193,7 @@
 - 2026-11-30 Mon 11:00-11:45 Anwendungsentwicklung und Programmierung [2.0.22] Pomper _(changed)_ — Distanztag Anmeldung: Nachname, Vorname (ohne Komma)
 - 2026-11-30 Mon 12:30-13:15 Englisch [2.0.22] Pfeiffer — Distanztag Anmeldung: Nachname, Vorname (ohne Komma)
 - 2026-11-30 Mon 13:15-14:00 IT-Technik 2 [2.0.22] Junker — Distanztag Anmeldung: Nachname, Vorname (ohne Komma)
-- 2026-11-30 Mon 14:00-15:45 Ethik [4.3.14] Schmid
+- 2026-11-30 Mon 14:00-15:45 Ethik [4.3.14] Schmid — https://viko.bycs.de/v/0688-0502-5739?code=7o66-YT2j
 - 2026-12-01 Tue 07:30-08:15 Deutsch [2.0.22] Neugebauer
 - 2026-12-01 Tue 08:15-09:45 IT-Technik 1 [2.0.22] Seitz, Skrobek — Test: zu Inhalten aus Mebis Hardwarekurs
 - 2026-12-01 Tue 10:15-12:30 IT-Systeme [2.3.22] Ludwig, Schilberth _(changed)_
